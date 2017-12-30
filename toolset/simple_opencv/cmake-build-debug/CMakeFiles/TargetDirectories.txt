@@ -1,0 +1,3 @@
+C:/GitProjects/CarND-Vehicle-Detection/toolset/simple_opencv/cmake-build-debug/CMakeFiles/DisplayImage.dir
+C:/GitProjects/CarND-Vehicle-Detection/toolset/simple_opencv/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/GitProjects/CarND-Vehicle-Detection/toolset/simple_opencv/cmake-build-debug/CMakeFiles/rebuild_cache.dir

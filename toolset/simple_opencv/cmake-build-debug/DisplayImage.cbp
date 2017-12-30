@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="DisplayImage"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\Users\;CMake Files\..\..\..\..\Users\ymlai\;CMake Files\..\..\..\..\Users\ymlai\Documents\;CMake Files\..\..\..\..\Users\ymlai\Documents\opencv-3.1.0\;CMake Files\..\..\..\..\Users\ymlai\Documents\opencv-3.1.0\build\;CMake Files\..\..\..\..\Users\ymlai\Documents\opencv-3.1.0\build\install\;CMake Files\..\..\..\..\Users\ymlai\Documents\opencv-3.1.0\build\install\x64\;CMake Files\..\..\..\..\Users\ymlai\Documents\opencv-3.1.0\build\install\x64\vc15\;CMake Files\..\..\..\..\Users\ymlai\Documents\opencv-3.1.0\build\install\x64\vc15\lib\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/GitProjects/CarND-Vehicle-Detection/toolset/simple_opencv/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\GitProjects\CarND-Vehicle-Detection\toolset\simple_opencv\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\GitProjects\CarND-Vehicle-Detection\toolset\simple_opencv\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\GitProjects\CarND-Vehicle-Detection\toolset\simple_opencv\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\GitProjects\CarND-Vehicle-Detection\toolset\simple_opencv\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DisplayImage">
+				<Option output="C:/GitProjects/CarND-Vehicle-Detection/toolset/simple_opencv/cmake-build-debug/DisplayImage.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/GitProjects/CarND-Vehicle-Detection/toolset/simple_opencv/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/Users/ymlai/Documents/opencv-3.1.0/build/install/include"/>
+					<Add directory="C:/Users/ymlai/Documents/opencv-3.1.0/build/install/include/opencv"/>
+					<Add directory="F:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\ATLMFC\include"/>
+					<Add directory="F:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.15063.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.15063.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.15063.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.15063.0\winrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\GitProjects\CarND-Vehicle-Detection\toolset\simple_opencv\cmake-build-debug\Makefile VERBOSE=1 DisplayImage"/>
+					<CompileFile command="nmake /NOLOGO /f C:\GitProjects\CarND-Vehicle-Detection\toolset\simple_opencv\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\GitProjects\CarND-Vehicle-Detection\toolset\simple_opencv\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\GitProjects\CarND-Vehicle-Detection\toolset\simple_opencv\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DisplayImage/fast">
+				<Option output="C:/GitProjects/CarND-Vehicle-Detection/toolset/simple_opencv/cmake-build-debug/DisplayImage.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/GitProjects/CarND-Vehicle-Detection/toolset/simple_opencv/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/Users/ymlai/Documents/opencv-3.1.0/build/install/include"/>
+					<Add directory="C:/Users/ymlai/Documents/opencv-3.1.0/build/install/include/opencv"/>
+					<Add directory="F:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\ATLMFC\include"/>
+					<Add directory="F:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.15063.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.15063.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.15063.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.15063.0\winrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\GitProjects\CarND-Vehicle-Detection\toolset\simple_opencv\cmake-build-debug\Makefile VERBOSE=1 DisplayImage/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\GitProjects\CarND-Vehicle-Detection\toolset\simple_opencv\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\GitProjects\CarND-Vehicle-Detection\toolset\simple_opencv\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\GitProjects\CarND-Vehicle-Detection\toolset\simple_opencv\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/GitProjects/CarND-Vehicle-Detection/toolset/simple_opencv/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\GitProjects\CarND-Vehicle-Detection\toolset\simple_opencv\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\GitProjects\CarND-Vehicle-Detection\toolset\simple_opencv\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\GitProjects\CarND-Vehicle-Detection\toolset\simple_opencv\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\GitProjects\CarND-Vehicle-Detection\toolset\simple_opencv\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/GitProjects/CarND-Vehicle-Detection/toolset/simple_opencv/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\GitProjects\CarND-Vehicle-Detection\toolset\simple_opencv\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\GitProjects\CarND-Vehicle-Detection\toolset\simple_opencv\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\GitProjects\CarND-Vehicle-Detection\toolset\simple_opencv\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\GitProjects\CarND-Vehicle-Detection\toolset\simple_opencv\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/GitProjects/CarND-Vehicle-Detection/toolset/simple_opencv/DisplayImage.cpp">
+			<Option target="DisplayImage"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/CarND-Vehicle-Detection/toolset/simple_opencv/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/CarND-Vehicle-Detection/toolset/simple_opencv/../../../../Users/ymlai/Documents/opencv-3.1.0/build/install/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Users\ymlai\Documents\opencv-3.1.0\build\install\"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/CarND-Vehicle-Detection/toolset/simple_opencv/../../../../Users/ymlai/Documents/opencv-3.1.0/build/install/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Users\ymlai\Documents\opencv-3.1.0\build\install\"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/CarND-Vehicle-Detection/toolset/simple_opencv/../../../../Users/ymlai/Documents/opencv-3.1.0/build/install/x64/vc15/lib/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Users\ymlai\Documents\opencv-3.1.0\build\install\x64\vc15\lib\"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/CarND-Vehicle-Detection/toolset/simple_opencv/../../../../Users/ymlai/Documents/opencv-3.1.0/build/install/x64/vc15/lib/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Users\ymlai\Documents\opencv-3.1.0\build\install\x64\vc15\lib\"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/CarND-Vehicle-Detection/toolset/simple_opencv/../../../../Users/ymlai/Documents/opencv-3.1.0/build/install/x64/vc15/lib/OpenCVModules-debug.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Users\ymlai\Documents\opencv-3.1.0\build\install\x64\vc15\lib\"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/CarND-Vehicle-Detection/toolset/simple_opencv/../../../../Users/ymlai/Documents/opencv-3.1.0/build/install/x64/vc15/lib/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Users\ymlai\Documents\opencv-3.1.0\build\install\x64\vc15\lib\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,2 @@
+C:/GitProjects/CarND-Vehicle-Detection/toolset/color_space_analysis/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/GitProjects/CarND-Vehicle-Detection/toolset/color_space_analysis/cmake-build-release/CMakeFiles/rebuild_cache.dir
