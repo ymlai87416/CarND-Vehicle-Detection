@@ -146,6 +146,34 @@ cv::Mat CameraCalibrator::remap(const cv::Mat &image, cv::Size &outputSize) {
 	return undistorted;
 }
 
+// remove distortion in an image (after calibration)
+cv::UMat CameraCalibrator::remap(const cv::UMat &image, cv::Size &outputSize) {
+
+    cv::UMat undistorted;
+
+    if (outputSize.height == -1)
+        outputSize = image.size();
+
+    if (mustInitUndistort) { // called once per calibration
+
+        cv::initUndistortRectifyMap(
+                cameraMatrix,  // computed camera matrix
+                distCoeffs,    // computed distortion matrix
+                cv::Mat(),     // optional rectification (none)
+                cv::Mat(),     // camera matrix to generate undistorted
+                outputSize,    // size of undistorted
+                CV_32FC1,      // type of output map
+                map1, map2);   // the x and y mapping functions
+
+        mustInitUndistort= false;
+    }
+
+    // Apply mapping functions
+    cv::remap(image, undistorted, map1, map2,
+              cv::INTER_LINEAR); // interpolation type
+
+    return undistorted;
+}
 
 // Set the calibration options
 // 8radialCoeffEnabled should be true if 8 radial coefficients are required (5 is default)

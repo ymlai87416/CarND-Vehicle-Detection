@@ -58,6 +58,7 @@ class CameraCalibrator {
     void setCalibrationFlag(bool radial8CoeffEnabled=false, bool tangentialParamEnabled=false);
 	// Remove distortion in an image (after calibration)
 	cv::Mat remap(const cv::Mat &image, cv::Size &outputSize = cv::Size(-1, -1));
+    cv::UMat remap(const cv::UMat &image, cv::Size &outputSize = cv::Size(-1, -1));
 
     // Getters
     cv::Mat getCameraMatrix() { return cameraMatrix; }

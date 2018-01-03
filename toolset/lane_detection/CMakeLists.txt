@@ -10,16 +10,22 @@ include_directories( ${OpenCV_INCLUDE_DIRS} )
 set(CMAKE_CXX_STANDARD 11)
 
 add_executable( birdView birdView.cpp CameraCalibrator.cpp)
-add_executable( featureExtraction featureExtraction.cpp)
-add_executable( laneDetection laneDetection.cpp)
+add_executable( featureExtraction featureExtraction.cpp CameraCalibrator.cpp)
+add_executable( laneDetection laneDetection.cpp CameraCalibrator.cpp)
 
 # link libraries
 target_link_libraries( birdView ${OpenCV_LIBS})
 target_link_libraries( featureExtraction ${OpenCV_LIBS})
 target_link_libraries( laneDetection ${OpenCV_LIBS})
-target_link_libraries(birdView Qt5::Core)
-target_link_libraries(birdView Qt5::Gui)
-target_link_libraries(birdView Qt5::Widgets)
+target_link_libraries( birdView Qt5::Core)
+target_link_libraries( birdView Qt5::Gui)
+target_link_libraries( birdView Qt5::Widgets)
+target_link_libraries( featureExtraction Qt5::Core)
+target_link_libraries( featureExtraction Qt5::Gui)
+target_link_libraries( featureExtraction Qt5::Widgets)
+target_link_libraries( laneDetection Qt5::Core)
+target_link_libraries( laneDetection Qt5::Gui)
+target_link_libraries( laneDetection Qt5::Widgets)
 
 # copy required images to every directory with executable
 FILE(COPY ${CMAKE_SOURCE_DIR}/videos/ DESTINATION ./)

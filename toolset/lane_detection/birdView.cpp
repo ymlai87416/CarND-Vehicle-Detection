@@ -15,6 +15,8 @@
 #include <fstream>
 
 CameraCalibrator cameraCalibrator;
+bool mustInitBirdviewTransform = true;
+cv::Mat lambda( 2, 4, CV_32FC1 );
 
 void calibrateCamera(){
     cv::Mat image;
@@ -38,7 +40,7 @@ void calibrateCamera(){
             boardSize, "Detected points");	// size of chessboard
 
     // calibrate the camera
-    cameraCalibrator.setCalibrationFlag(true,true);
+    cameraCalibrator.setCalibrationFlag(false,false);
     cameraCalibrator.calibrate(image.size());
 
     // Exampple of Image Undistortion
@@ -74,46 +76,44 @@ void canny(cv::UMat& img, cv::UMat& out) {
 }
 
 void transformBirdView(cv::UMat& img, cv::UMat& out){
-// Input Quadilateral or Image plane coordinates
-    Point2f inputQuad[4];
-    // Output Quadilateral or World plane coordinates
-    Point2f outputQuad[4];
-
-    // Lambda Matrix
-    Mat lambda( 2, 4, CV_32FC1 );
-    //Input and Output Image;
-    Mat input, output;
-
-    //Load the image
-    input = imread( "lena.jpg", 1 );
-    // Set the lambda matrix the same type and size as input
-    lambda = Mat::zeros( input.rows, input.cols, input.type() );
-
-    // The 4 points that select quadilateral on the input , from top-left in clockwise order
-    // These four pts are the sides of the rect box used as input
-    inputQuad[0] = Point2f( -30,-60 );
-    inputQuad[1] = Point2f( input.cols+50,-50);
-    inputQuad[2] = Point2f( input.cols+100,input.rows+50);
-    inputQuad[3] = Point2f( -50,input.rows+50  );
-    // The 4 points where the mapping is to be done , from top-left in clockwise order
-    outputQuad[0] = Point2f( 0,0 );
-    outputQuad[1] = Point2f( input.cols-1,0);
-    outputQuad[2] = Point2f( input.cols-1,input.rows-1);
-    outputQuad[3] = Point2f( 0,input.rows-1  );
-
     // Get the Perspective Transform Matrix i.e. lambda
-    lambda = getPerspectiveTransform( inputQuad, outputQuad );
+    if(mustInitBirdviewTransform){
+        std::cout<< "w " << img.cols << " h " << img.rows << std::endl;
+        // Input Quadilateral or Image plane coordinates
+        cv::Point2f inputQuad[4];
+        // Output Quadilateral or World plane coordinates
+        cv::Point2f outputQuad[4];
+
+        // Set the lambda matrix the same type and size as input
+        lambda = cv::Mat::zeros( img.rows, img.cols, img.type() );
+
+        // The 4 points that select quadilateral on the input , from top-left in clockwise order
+        // These four pts are the sides of the rect box used as input
+        inputQuad[0] = cv::Point2f( 590, 450 );
+        inputQuad[1] = cv::Point2f( 689, 450 );
+        inputQuad[2] = cv::Point2f( 1135, 720 );
+        inputQuad[3] = cv::Point2f( 189, 720 );
+        // The 4 points where the mapping is to be done , from top-left in clockwise order
+        outputQuad[0] = cv::Point2f( 315, 0 );
+        outputQuad[1] = cv::Point2f( 960, 0 );
+        outputQuad[2] = cv::Point2f( 960, 720 );
+        outputQuad[3] = cv::Point2f( 315, 720 );
+        lambda = cv::getPerspectiveTransform( inputQuad, outputQuad );
+        mustInitBirdviewTransform = false;
+    }
+
     // Apply the Perspective Transform just found to the src image
-    warpPerspective(input,output,lambda,output.size() );
+    warpPerspective(img, out, lambda, img.size() );
 }
 
 void pipeline(cv::Mat& img, cv::Mat& out){
     cv::Size newSize(static_cast<int>(img.cols), static_cast<int>(img.rows));
-    cv::Mat uImage= cameraCalibrator.remap(img, newSize);
-
     cv::UMat uImg, uOut;
-    uImage.copyTo(uImg);
-    canny(uImg, uOut);
+    img.copyTo(uImg);
+    //uImg = cameraCalibrator.remap(uImg, newSize);
+    //canny(uImg, uOut);
+    transformBirdView(uImg, uOut);
+    //uOut = uImg;
     uOut.copyTo(out);
 }
 

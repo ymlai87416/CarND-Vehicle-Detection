@@ -26,6 +26,7 @@ Copyright (C) 2016 Robert Laganiere, www.laganiere.name
 #include <vector>
 #include <opencv2/core.hpp>
 #include <opencv2/highgui.hpp>
+#include <algorithm>
 
 // The frame processor interface
 class FrameProcessor {
@@ -452,7 +453,11 @@ class VideoProcessor {
 
 		  stop= false;
 
+          int e1, e2, dynDelay, processTime;
+
 		  while (!isStopped()) {
+
+              e1 = cv::getTickCount();
 
 			  // read next frame if any
 			  if (!readNextFrame(frame))
@@ -485,9 +490,14 @@ class VideoProcessor {
 			  // display output frame
 			  if (windowNameOutput.length()!=0) 
 				  cv::imshow(windowNameOutput,output);
+
+              e2 = cv::getTickCount();
+              processTime = (e2 - e1) * 1000 / cv::getTickFrequency() ;
+
+              dynDelay = std::max(1, delay - processTime);
 			
 			  // introduce a delay
-			  if (delay>=0 && cv::waitKey(delay)>=0)
+			  if (dynDelay>=0 && cv::waitKey(dynDelay)>=0)
 				stopIt();
 
 			  // check if we should stop
