@@ -1,3 +1,0 @@
-C:/GitProjects/CarND-Vehicle-Detection/toolset/simple_qt/cmake-build-release/CMakeFiles/HelloWorld.dir
-C:/GitProjects/CarND-Vehicle-Detection/toolset/simple_qt/cmake-build-release/CMakeFiles/edit_cache.dir
-C:/GitProjects/CarND-Vehicle-Detection/toolset/simple_qt/cmake-build-release/CMakeFiles/rebuild_cache.dir

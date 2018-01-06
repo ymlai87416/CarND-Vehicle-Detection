@@ -1,0 +1,768 @@
+RGB,9,8,2,0,16,16, True, True, True,0.985
+RGB,9,8,2,0,16,16, True, False, True,0.9925
+RGB,9,8,2,0,16,16, False, True, True,0.995
+RGB,9,8,2,0,16,16, False, False, True,0.9875
+RGB,9,8,2,0,16,32, True, True, True,0.99
+RGB,9,8,2,0,16,32, True, False, True,0.99
+RGB,9,8,2,0,16,32, False, True, True,0.995
+RGB,9,8,2,0,16,32, False, False, True,0.975
+RGB,9,8,2,0,32,16, True, True, True,0.9875
+RGB,9,8,2,0,32,16, True, False, True,0.9925
+RGB,9,8,2,0,32,16, False, True, True,0.99
+RGB,9,8,2,0,32,16, False, False, True,0.9825
+RGB,9,8,2,0,32,32, True, True, True,0.9925
+RGB,9,8,2,0,32,32, True, False, True,0.99
+RGB,9,8,2,0,32,32, False, True, True,1
+RGB,9,8,2,0,32,32, False, False, True,0.9875
+RGB,9,8,2,1,16,16, True, True, True,0.9875
+RGB,9,8,2,1,16,16, True, False, True,0.985
+RGB,9,8,2,1,16,16, False, True, True,0.985
+RGB,9,8,2,1,16,16, False, False, True,0.97
+RGB,9,8,2,1,16,32, True, True, True,0.9975
+RGB,9,8,2,1,16,32, True, False, True,0.995
+RGB,9,8,2,1,16,32, False, True, True,0.99
+RGB,9,8,2,1,16,32, False, False, True,0.99
+RGB,9,8,2,1,32,16, True, True, True,0.985
+RGB,9,8,2,1,32,16, True, False, True,0.995
+RGB,9,8,2,1,32,16, False, True, True,0.9875
+RGB,9,8,2,1,32,16, False, False, True,0.9825
+RGB,9,8,2,1,32,32, True, True, True,0.99
+RGB,9,8,2,1,32,32, True, False, True,0.99
+RGB,9,8,2,1,32,32, False, True, True,1
+RGB,9,8,2,1,32,32, False, False, True,0.985
+RGB,9,8,2,2,16,16, True, True, True,0.995
+RGB,9,8,2,2,16,16, True, False, True,0.98
+RGB,9,8,2,2,16,16, False, True, True,0.9975
+RGB,9,8,2,2,16,16, False, False, True,0.965
+RGB,9,8,2,2,16,32, True, True, True,0.995
+RGB,9,8,2,2,16,32, True, False, True,0.98
+RGB,9,8,2,2,16,32, False, True, True,0.98
+RGB,9,8,2,2,16,32, False, False, True,0.98
+RGB,9,8,2,2,32,16, True, True, True,0.99
+RGB,9,8,2,2,32,16, True, False, True,0.99
+RGB,9,8,2,2,32,16, False, True, True,0.99
+RGB,9,8,2,2,32,16, False, False, True,0.9875
+RGB,9,8,2,2,32,32, True, True, True,0.985
+RGB,9,8,2,2,32,32, True, False, True,0.9975
+RGB,9,8,2,2,32,32, False, True, True,0.9925
+RGB,9,8,2,2,32,32, False, False, True,0.98
+RGB,9,8,2, ALL,16,16, True, True, True,0.99
+RGB,9,8,2, ALL,16,16, True, False, True,0.985
+RGB,9,8,2, ALL,16,16, False, True, True,1
+RGB,9,8,2, ALL,16,16, False, False, True,0.97
+RGB,9,8,2, ALL,16,32, True, True, True,0.9925
+RGB,9,8,2, ALL,16,32, True, False, True,0.9875
+RGB,9,8,2, ALL,16,32, False, True, True,0.9825
+RGB,9,8,2, ALL,16,32, False, False, True,0.9875
+RGB,9,8,2, ALL,32,16, True, True, True,0.99
+RGB,9,8,2, ALL,32,16, True, False, True,0.985
+RGB,9,8,2, ALL,32,16, False, True, True,0.9975
+RGB,9,8,2, ALL,32,16, False, False, True,0.9875
+RGB,9,8,2, ALL,32,32, True, True, True,0.9925
+RGB,9,8,2, ALL,32,32, True, False, True,0.995
+RGB,9,8,2, ALL,32,32, False, True, True,0.99
+RGB,9,8,2, ALL,32,32, False, False, True,0.98
+RGB,9,8,3,0,16,16, True, True, True,0.9925
+RGB,9,8,3,0,16,16, True, False, True,0.9825
+RGB,9,8,3,0,16,16, False, True, True,0.9875
+RGB,9,8,3,0,16,16, False, False, True,0.9725
+RGB,9,8,3,0,16,32, True, True, True,0.995
+RGB,9,8,3,0,16,32, True, False, True,0.99
+RGB,9,8,3,0,16,32, False, True, True,0.995
+RGB,9,8,3,0,16,32, False, False, True,0.9775
+RGB,9,8,3,0,32,16, True, True, True,0.9925
+RGB,9,8,3,0,32,16, True, False, True,0.9875
+RGB,9,8,3,0,32,16, False, True, True,0.99
+RGB,9,8,3,0,32,16, False, False, True,0.9625
+RGB,9,8,3,0,32,32, True, True, True,0.99
+RGB,9,8,3,0,32,32, True, False, True,0.9825
+RGB,9,8,3,0,32,32, False, True, True,0.9975
+RGB,9,8,3,0,32,32, False, False, True,0.975
+RGB,9,8,3,1,16,16, True, True, True,0.99
+RGB,9,8,3,1,16,16, True, False, True,0.9825
+RGB,9,8,3,1,16,16, False, True, True,0.98
+RGB,9,8,3,1,16,16, False, False, True,0.98
+RGB,9,8,3,1,16,32, True, True, True,0.985
+RGB,9,8,3,1,16,32, True, False, True,0.99
+RGB,9,8,3,1,16,32, False, True, True,0.9825
+RGB,9,8,3,1,16,32, False, False, True,0.9725
+RGB,9,8,3,1,32,16, True, True, True,0.98
+RGB,9,8,3,1,32,16, True, False, True,0.9875
+RGB,9,8,3,1,32,16, False, True, True,0.995
+RGB,9,8,3,1,32,16, False, False, True,0.9625
+RGB,9,8,3,1,32,32, True, True, True,0.995
+RGB,9,8,3,1,32,32, True, False, True,0.985
+RGB,9,8,3,1,32,32, False, True, True,0.9825
+RGB,9,8,3,1,32,32, False, False, True,0.97
+RGB,9,8,3,2,16,16, True, True, True,0.9875
+RGB,9,8,3,2,16,16, True, False, True,0.985
+RGB,9,8,3,2,16,16, False, True, True,0.9925
+RGB,9,8,3,2,16,16, False, False, True,0.97
+RGB,9,8,3,2,16,32, True, True, True,0.9975
+RGB,9,8,3,2,16,32, True, False, True,0.9775
+RGB,9,8,3,2,16,32, False, True, True,0.9975
+RGB,9,8,3,2,16,32, False, False, True,0.97
+RGB,9,8,3,2,32,16, True, True, True,0.9925
+RGB,9,8,3,2,32,16, True, False, True,0.995
+RGB,9,8,3,2,32,16, False, True, True,0.9925
+RGB,9,8,3,2,32,16, False, False, True,0.97
+RGB,9,8,3,2,32,32, True, True, True,0.99
+RGB,9,8,3,2,32,32, True, False, True,0.99
+RGB,9,8,3,2,32,32, False, True, True,0.9925
+RGB,9,8,3,2,32,32, False, False, True,0.9675
+RGB,9,8,3, ALL,16,16, True, True, True,0.995
+RGB,9,8,3, ALL,16,16, True, False, True,0.9775
+RGB,9,8,3, ALL,16,16, False, True, True,0.985
+RGB,9,8,3, ALL,16,16, False, False, True,0.9725
+RGB,9,8,3, ALL,16,32, True, True, True,0.99
+RGB,9,8,3, ALL,16,32, True, False, True,0.99
+RGB,9,8,3, ALL,16,32, False, True, True,0.995
+RGB,9,8,3, ALL,16,32, False, False, True,0.9825
+RGB,9,8,3, ALL,32,16, True, True, True,0.9925
+RGB,9,8,3, ALL,32,16, True, False, True,0.9875
+RGB,9,8,3, ALL,32,16, False, True, True,0.975
+RGB,9,8,3, ALL,32,16, False, False, True,0.9825
+RGB,9,8,3, ALL,32,32, True, True, True,0.99
+RGB,9,8,3, ALL,32,32, True, False, True,0.9825
+RGB,9,8,3, ALL,32,32, False, True, True,0.9875
+RGB,9,8,3, ALL,32,32, False, False, True,0.98
+RGB,9,8,4,0,16,16, True, True, True,0.985
+RGB,9,8,4,0,16,16, True, False, True,0.985
+RGB,9,8,4,0,16,16, False, True, True,0.99
+RGB,9,8,4,0,16,16, False, False, True,0.9825
+RGB,9,8,4,0,16,32, True, True, True,1
+RGB,9,8,4,0,16,32, True, False, True,0.985
+RGB,9,8,4,0,16,32, False, True, True,0.9925
+RGB,9,8,4,0,16,32, False, False, True,0.965
+RGB,9,8,4,0,32,16, True, True, True,0.9875
+RGB,9,8,4,0,32,16, True, False, True,0.9775
+RGB,9,8,4,0,32,16, False, True, True,0.9925
+RGB,9,8,4,0,32,16, False, False, True,0.9775
+RGB,9,8,4,0,32,32, True, True, True,0.99
+RGB,9,8,4,0,32,32, True, False, True,0.975
+RGB,9,8,4,0,32,32, False, True, True,0.985
+RGB,9,8,4,0,32,32, False, False, True,0.97
+RGB,9,8,4,1,16,16, True, True, True,0.9925
+RGB,9,8,4,1,16,16, True, False, True,0.9825
+RGB,9,8,4,1,16,16, False, True, True,0.975
+RGB,9,8,4,1,16,16, False, False, True,0.965
+RGB,9,8,4,1,16,32, True, True, True,0.9925
+RGB,9,8,4,1,16,32, True, False, True,0.98
+RGB,9,8,4,1,16,32, False, True, True,0.9875
+RGB,9,8,4,1,16,32, False, False, True,0.975
+RGB,9,8,4,1,32,16, True, True, True,0.9875
+RGB,9,8,4,1,32,16, True, False, True,0.99
+RGB,9,8,4,1,32,16, False, True, True,0.98
+RGB,9,8,4,1,32,16, False, False, True,0.975
+RGB,9,8,4,1,32,32, True, True, True,0.9975
+RGB,9,8,4,1,32,32, True, False, True,0.9825
+RGB,9,8,4,1,32,32, False, True, True,0.9875
+RGB,9,8,4,1,32,32, False, False, True,0.965
+RGB,9,8,4,2,16,16, True, True, True,0.9875
+RGB,9,8,4,2,16,16, True, False, True,0.98
+RGB,9,8,4,2,16,16, False, True, True,0.9825
+RGB,9,8,4,2,16,16, False, False, True,0.97
+RGB,9,8,4,2,16,32, True, True, True,0.9875
+RGB,9,8,4,2,16,32, True, False, True,0.9875
+RGB,9,8,4,2,16,32, False, True, True,0.9925
+RGB,9,8,4,2,16,32, False, False, True,0.98
+RGB,9,8,4,2,32,16, True, True, True,0.99
+RGB,9,8,4,2,32,16, True, False, True,0.99
+RGB,9,8,4,2,32,16, False, True, True,0.9875
+RGB,9,8,4,2,32,16, False, False, True,0.9725
+RGB,9,8,4,2,32,32, True, True, True,0.99
+RGB,9,8,4,2,32,32, True, False, True,0.985
+RGB,9,8,4,2,32,32, False, True, True,0.9925
+RGB,9,8,4,2,32,32, False, False, True,0.96
+RGB,9,8,4, ALL,16,16, True, True, True,0.9925
+RGB,9,8,4, ALL,16,16, True, False, True,0.985
+RGB,9,8,4, ALL,16,16, False, True, True,0.985
+RGB,9,8,4, ALL,16,16, False, False, True,0.96
+RGB,9,8,4, ALL,16,32, True, True, True,0.99
+RGB,9,8,4, ALL,16,32, True, False, True,0.985
+RGB,9,8,4, ALL,16,32, False, True, True,0.9825
+RGB,9,8,4, ALL,16,32, False, False, True,0.9825
+RGB,9,8,4, ALL,32,16, True, True, True,0.985
+RGB,9,8,4, ALL,32,16, True, False, True,0.9875
+RGB,9,8,4, ALL,32,16, False, True, True,0.9775
+RGB,9,8,4, ALL,32,16, False, False, True,0.9725
+RGB,9,8,4, ALL,32,32, True, True, True,0.99
+RGB,9,8,4, ALL,32,32, True, False, True,0.975
+RGB,9,8,4, ALL,32,32, False, True, True,0.99
+RGB,9,8,4, ALL,32,32, False, False, True,0.97
+RGB,9,16,2,0,16,16, True, True, True,0.99
+RGB,9,16,2,0,16,16, True, False, True,0.9925
+RGB,9,16,2,0,16,16, False, True, True,0.9975
+RGB,9,16,2,0,16,16, False, False, True,0.97
+RGB,9,16,2,0,16,32, True, True, True,1
+RGB,9,16,2,0,16,32, True, False, True,0.9825
+RGB,9,16,2,0,16,32, False, True, True,1
+RGB,9,16,2,0,16,32, False, False, True,0.96
+RGB,9,16,2,0,32,16, True, True, True,0.9875
+RGB,9,16,2,0,32,16, True, False, True,0.98
+RGB,9,16,2,0,32,16, False, True, True,0.9975
+RGB,9,16,2,0,32,16, False, False, True,0.965
+RGB,9,16,2,0,32,32, True, True, True,0.995
+RGB,9,16,2,0,32,32, True, False, True,0.99
+RGB,9,16,2,0,32,32, False, True, True,0.9975
+RGB,9,16,2,0,32,32, False, False, True,0.9775
+RGB,9,16,2,1,16,16, True, True, True,0.9925
+RGB,9,16,2,1,16,16, True, False, True,0.99
+RGB,9,16,2,1,16,16, False, True, True,0.995
+RGB,9,16,2,1,16,16, False, False, True,0.9825
+RGB,9,16,2,1,16,32, True, True, True,0.9925
+RGB,9,16,2,1,16,32, True, False, True,0.9825
+RGB,9,16,2,1,16,32, False, True, True,1
+RGB,9,16,2,1,16,32, False, False, True,0.9675
+RGB,9,16,2,1,32,16, True, True, True,0.99
+RGB,9,16,2,1,32,16, True, False, True,0.985
+RGB,9,16,2,1,32,16, False, True, True,1
+RGB,9,16,2,1,32,16, False, False, True,0.96
+RGB,9,16,2,1,32,32, True, True, True,0.9975
+RGB,9,16,2,1,32,32, True, False, True,0.985
+RGB,9,16,2,1,32,32, False, True, True,1
+RGB,9,16,2,1,32,32, False, False, True,0.9675
+RGB,9,16,2,2,16,16, True, True, True,0.9875
+RGB,9,16,2,2,16,16, True, False, True,0.9825
+RGB,9,16,2,2,16,16, False, True, True,0.9925
+RGB,9,16,2,2,16,16, False, False, True,0.96
+RGB,9,16,2,2,16,32, True, True, True,0.9975
+RGB,9,16,2,2,16,32, True, False, True,0.975
+RGB,9,16,2,2,16,32, False, True, True,0.995
+RGB,9,16,2,2,16,32, False, False, True,0.96
+RGB,9,16,2,2,32,16, True, True, True,0.99
+RGB,9,16,2,2,32,16, True, False, True,0.985
+RGB,9,16,2,2,32,16, False, True, True,0.995
+RGB,9,16,2,2,32,16, False, False, True,0.9675
+RGB,9,16,2,2,32,32, True, True, True,0.9975
+RGB,9,16,2,2,32,32, True, False, True,0.975
+RGB,9,16,2,2,32,32, False, True, True,0.995
+RGB,9,16,2,2,32,32, False, False, True,0.9775
+RGB,9,16,2, ALL,16,16, True, True, True,0.99
+RGB,9,16,2, ALL,16,16, True, False, True,0.9775
+RGB,9,16,2, ALL,16,16, False, True, True,0.9825
+RGB,9,16,2, ALL,16,16, False, False, True,0.975
+RGB,9,16,2, ALL,16,32, True, True, True,1
+RGB,9,16,2, ALL,16,32, True, False, True,0.985
+RGB,9,16,2, ALL,16,32, False, True, True,1
+RGB,9,16,2, ALL,16,32, False, False, True,0.98
+RGB,9,16,2, ALL,32,16, True, True, True,0.9875
+RGB,9,16,2, ALL,32,16, True, False, True,0.9825
+RGB,9,16,2, ALL,32,16, False, True, True,0.9975
+RGB,9,16,2, ALL,32,16, False, False, True,0.9875
+RGB,9,16,2, ALL,32,32, True, True, True,0.995
+RGB,9,16,2, ALL,32,32, True, False, True,0.98
+RGB,9,16,2, ALL,32,32, False, True, True,0.995
+RGB,9,16,2, ALL,32,32, False, False, True,0.97
+RGB,9,16,3,0,16,16, True, True, True,0.9975
+RGB,9,16,3,0,16,16, True, False, True,0.975
+RGB,9,16,3,0,16,16, False, True, True,0.9975
+RGB,9,16,3,0,16,16, False, False, True,0.955
+RGB,9,16,3,0,16,32, True, True, True,0.995
+RGB,9,16,3,0,16,32, True, False, True,0.9775
+RGB,9,16,3,0,16,32, False, True, True,1
+RGB,9,16,3,0,16,32, False, False, True,0.9575
+RGB,9,16,3,0,32,16, True, True, True,0.9875
+RGB,9,16,3,0,32,16, True, False, True,0.97
+RGB,9,16,3,0,32,16, False, True, True,0.9975
+RGB,9,16,3,0,32,16, False, False, True,0.95
+RGB,9,16,3,0,32,32, True, True, True,0.995
+RGB,9,16,3,0,32,32, True, False, True,0.9675
+RGB,9,16,3,0,32,32, False, True, True,0.9975
+RGB,9,16,3,0,32,32, False, False, True,0.9475
+RGB,9,16,3,1,16,16, True, True, True,0.995
+RGB,9,16,3,1,16,16, True, False, True,0.98
+RGB,9,16,3,1,16,16, False, True, True,0.995
+RGB,9,16,3,1,16,16, False, False, True,0.965
+RGB,9,16,3,1,16,32, True, True, True,0.9975
+RGB,9,16,3,1,16,32, True, False, True,0.9775
+RGB,9,16,3,1,16,32, False, True, True,0.9975
+RGB,9,16,3,1,16,32, False, False, True,0.9725
+RGB,9,16,3,1,32,16, True, True, True,0.9875
+RGB,9,16,3,1,32,16, True, False, True,0.975
+RGB,9,16,3,1,32,16, False, True, True,0.995
+RGB,9,16,3,1,32,16, False, False, True,0.95
+RGB,9,16,3,1,32,32, True, True, True,0.9925
+RGB,9,16,3,1,32,32, True, False, True,0.9725
+RGB,9,16,3,1,32,32, False, True, True,0.9975
+RGB,9,16,3,1,32,32, False, False, True,0.95
+RGB,9,16,3,2,16,16, True, True, True,0.9925
+RGB,9,16,3,2,16,16, True, False, True,0.985
+RGB,9,16,3,2,16,16, False, True, True,0.99
+RGB,9,16,3,2,16,16, False, False, True,0.9575
+RGB,9,16,3,2,16,32, True, True, True,0.995
+RGB,9,16,3,2,16,32, True, False, True,0.985
+RGB,9,16,3,2,16,32, False, True, True,0.9975
+RGB,9,16,3,2,16,32, False, False, True,0.935
+RGB,9,16,3,2,32,16, True, True, True,0.9875
+RGB,9,16,3,2,32,16, True, False, True,0.9875
+RGB,9,16,3,2,32,16, False, True, True,0.9975
+RGB,9,16,3,2,32,16, False, False, True,0.94
+RGB,9,16,3,2,32,32, True, True, True,0.995
+RGB,9,16,3,2,32,32, True, False, True,0.97
+RGB,9,16,3,2,32,32, False, True, True,0.995
+RGB,9,16,3,2,32,32, False, False, True,0.9575
+RGB,9,16,3, ALL,16,16, True, True, True,0.995
+RGB,9,16,3, ALL,16,16, True, False, True,0.9775
+RGB,9,16,3, ALL,16,16, False, True, True,0.99
+RGB,9,16,3, ALL,16,16, False, False, True,0.97
+RGB,9,16,3, ALL,16,32, True, True, True,0.9925
+RGB,9,16,3, ALL,16,32, True, False, True,0.985
+RGB,9,16,3, ALL,16,32, False, True, True,0.9975
+RGB,9,16,3, ALL,16,32, False, False, True,0.975
+RGB,9,16,3, ALL,32,16, True, True, True,0.9925
+RGB,9,16,3, ALL,32,16, True, False, True,0.9925
+RGB,9,16,3, ALL,32,16, False, True, True,0.985
+RGB,9,16,3, ALL,32,16, False, False, True,0.9725
+RGB,9,16,3, ALL,32,32, True, True, True,0.995
+RGB,9,16,3, ALL,32,32, True, False, True,0.985
+RGB,9,16,3, ALL,32,32, False, True, True,0.9975
+RGB,9,16,3, ALL,32,32, False, False, True,0.9625
+RGB,9,16,4,0,16,16, True, True, True,0.9975
+RGB,9,16,4,0,16,16, True, False, True,0.9925
+RGB,9,16,4,0,16,16, False, True, True,0.9975
+RGB,9,16,4,0,16,16, False, False, True,0.93
+RGB,9,16,4,0,16,32, True, True, True,0.9975
+RGB,9,16,4,0,16,32, True, False, True,0.985
+RGB,9,16,4,0,16,32, False, True, True,1
+RGB,9,16,4,0,16,32, False, False, True,0.94
+RGB,9,16,4,0,32,16, True, True, True,0.9925
+RGB,9,16,4,0,32,16, True, False, True,0.9725
+RGB,9,16,4,0,32,16, False, True, True,1
+RGB,9,16,4,0,32,16, False, False, True,0.9075
+RGB,9,16,4,0,32,32, True, True, True,0.9975
+RGB,9,16,4,0,32,32, True, False, True,0.975
+RGB,9,16,4,0,32,32, False, True, True,0.9975
+RGB,9,16,4,0,32,32, False, False, True,0.9575
+RGB,9,16,4,1,16,16, True, True, True,0.9925
+RGB,9,16,4,1,16,16, True, False, True,0.98
+RGB,9,16,4,1,16,16, False, True, True,1
+RGB,9,16,4,1,16,16, False, False, True,0.9525
+RGB,9,16,4,1,16,32, True, True, True,0.9975
+RGB,9,16,4,1,16,32, True, False, True,0.9875
+RGB,9,16,4,1,16,32, False, True, True,1
+RGB,9,16,4,1,16,32, False, False, True,0.95
+RGB,9,16,4,1,32,16, True, True, True,0.995
+RGB,9,16,4,1,32,16, True, False, True,0.985
+RGB,9,16,4,1,32,16, False, True, True,0.9975
+RGB,9,16,4,1,32,16, False, False, True,0.9525
+RGB,9,16,4,1,32,32, True, True, True,0.995
+RGB,9,16,4,1,32,32, True, False, True,0.9875
+RGB,9,16,4,1,32,32, False, True, True,1
+RGB,9,16,4,1,32,32, False, False, True,0.9575
+RGB,9,16,4,2,16,16, True, True, True,1
+RGB,9,16,4,2,16,16, True, False, True,0.99
+RGB,9,16,4,2,16,16, False, True, True,0.99
+RGB,9,16,4,2,16,16, False, False, True,0.9575
+RGB,9,16,4,2,16,32, True, True, True,0.995
+RGB,9,16,4,2,16,32, True, False, True,0.9875
+RGB,9,16,4,2,16,32, False, True, True,0.9925
+RGB,9,16,4,2,16,32, False, False, True,0.9475
+RGB,9,16,4,2,32,16, True, True, True,0.995
+RGB,9,16,4,2,32,16, True, False, True,0.975
+RGB,9,16,4,2,32,16, False, True, True,0.9975
+RGB,9,16,4,2,32,16, False, False, True,0.9575
+RGB,9,16,4,2,32,32, True, True, True,0.9875
+RGB,9,16,4,2,32,32, True, False, True,0.9725
+RGB,9,16,4,2,32,32, False, True, True,1
+RGB,9,16,4,2,32,32, False, False, True,0.9525
+RGB,9,16,4, ALL,16,16, True, True, True,0.9925
+RGB,9,16,4, ALL,16,16, True, False, True,0.9925
+RGB,9,16,4, ALL,16,16, False, True, True,0.995
+RGB,9,16,4, ALL,16,16, False, False, True,0.955
+RGB,9,16,4, ALL,16,32, True, True, True,0.99
+RGB,9,16,4, ALL,16,32, True, False, True,0.985
+RGB,9,16,4, ALL,16,32, False, True, True,1
+RGB,9,16,4, ALL,16,32, False, False, True,0.955
+RGB,9,16,4, ALL,32,16, True, True, True,0.99
+RGB,9,16,4, ALL,32,16, True, False, True,0.98
+RGB,9,16,4, ALL,32,16, False, True, True,0.995
+RGB,9,16,4, ALL,32,16, False, False, True,0.9575
+RGB,9,16,4, ALL,32,32, True, True, True,0.995
+RGB,9,16,4, ALL,32,32, True, False, True,0.9875
+RGB,9,16,4, ALL,32,32, False, True, True,0.9975
+RGB,9,16,4, ALL,32,32, False, False, True,0.955
+RGB,5,8,2,0,16,16, True, True, True,0.995
+RGB,5,8,2,0,16,16, True, False, True,0.9875
+RGB,5,8,2,0,16,16, False, True, True,0.9875
+RGB,5,8,2,0,16,16, False, False, True,0.97
+RGB,5,8,2,0,16,32, True, True, True,0.9925
+RGB,5,8,2,0,16,32, True, False, True,0.9875
+RGB,5,8,2,0,16,32, False, True, True,0.99
+RGB,5,8,2,0,16,32, False, False, True,0.9825
+RGB,5,8,2,0,32,16, True, True, True,0.995
+RGB,5,8,2,0,32,16, True, False, True,0.9875
+RGB,5,8,2,0,32,16, False, True, True,0.9975
+RGB,5,8,2,0,32,16, False, False, True,0.9775
+RGB,5,8,2,0,32,32, True, True, True,0.995
+RGB,5,8,2,0,32,32, True, False, True,0.9975
+RGB,5,8,2,0,32,32, False, True, True,1
+RGB,5,8,2,0,32,32, False, False, True,0.975
+RGB,5,8,2,1,16,16, True, True, True,0.9925
+RGB,5,8,2,1,16,16, True, False, True,0.9925
+RGB,5,8,2,1,16,16, False, True, True,0.9975
+RGB,5,8,2,1,16,16, False, False, True,0.9825
+RGB,5,8,2,1,16,32, True, True, True,0.9975
+RGB,5,8,2,1,16,32, True, False, True,1
+RGB,5,8,2,1,16,32, False, True, True,0.9975
+RGB,5,8,2,1,16,32, False, False, True,0.985
+RGB,5,8,2,1,32,16, True, True, True,0.9925
+RGB,5,8,2,1,32,16, True, False, True,0.99
+RGB,5,8,2,1,32,16, False, True, True,0.9975
+RGB,5,8,2,1,32,16, False, False, True,0.985
+RGB,5,8,2,1,32,32, True, True, True,0.9925
+RGB,5,8,2,1,32,32, True, False, True,0.9925
+RGB,5,8,2,1,32,32, False, True, True,0.995
+RGB,5,8,2,1,32,32, False, False, True,0.9875
+RGB,5,8,2,2,16,16, True, True, True,0.9925
+RGB,5,8,2,2,16,16, True, False, True,0.9775
+RGB,5,8,2,2,16,16, False, True, True,0.995
+RGB,5,8,2,2,16,16, False, False, True,0.985
+RGB,5,8,2,2,16,32, True, True, True,0.9975
+RGB,5,8,2,2,16,32, True, False, True,0.99
+RGB,5,8,2,2,16,32, False, True, True,1
+RGB,5,8,2,2,16,32, False, False, True,0.97
+RGB,5,8,2,2,32,16, True, True, True,0.995
+RGB,5,8,2,2,32,16, True, False, True,0.985
+RGB,5,8,2,2,32,16, False, True, True,0.995
+RGB,5,8,2,2,32,16, False, False, True,0.97
+RGB,5,8,2,2,32,32, True, True, True,0.99
+RGB,5,8,2,2,32,32, True, False, True,0.9875
+RGB,5,8,2,2,32,32, False, True, True,0.995
+RGB,5,8,2,2,32,32, False, False, True,0.9575
+RGB,5,8,2, ALL,16,16, True, True, True,0.995
+RGB,5,8,2, ALL,16,16, True, False, True,0.99
+RGB,5,8,2, ALL,16,16, False, True, True,0.9875
+RGB,5,8,2, ALL,16,16, False, False, True,0.9825
+RGB,5,8,2, ALL,16,32, True, True, True,1
+RGB,5,8,2, ALL,16,32, True, False, True,0.98
+RGB,5,8,2, ALL,16,32, False, True, True,0.985
+RGB,5,8,2, ALL,16,32, False, False, True,0.9775
+RGB,5,8,2, ALL,32,16, True, True, True,0.995
+RGB,5,8,2, ALL,32,16, True, False, True,0.9875
+RGB,5,8,2, ALL,32,16, False, True, True,0.9825
+RGB,5,8,2, ALL,32,16, False, False, True,0.9825
+RGB,5,8,2, ALL,32,32, True, True, True,0.9975
+RGB,5,8,2, ALL,32,32, True, False, True,1
+RGB,5,8,2, ALL,32,32, False, True, True,0.995
+RGB,5,8,2, ALL,32,32, False, False, True,0.975
+RGB,5,8,3,0,16,16, True, True, True,0.9925
+RGB,5,8,3,0,16,16, True, False, True,0.9875
+RGB,5,8,3,0,16,16, False, True, True,0.995
+RGB,5,8,3,0,16,16, False, False, True,0.98
+RGB,5,8,3,0,16,32, True, True, True,0.995
+RGB,5,8,3,0,16,32, True, False, True,0.9775
+RGB,5,8,3,0,16,32, False, True, True,0.9925
+RGB,5,8,3,0,16,32, False, False, True,0.9675
+RGB,5,8,3,0,32,16, True, True, True,0.995
+RGB,5,8,3,0,32,16, True, False, True,0.98
+RGB,5,8,3,0,32,16, False, True, True,0.995
+RGB,5,8,3,0,32,16, False, False, True,0.98
+RGB,5,8,3,0,32,32, True, True, True,0.99
+RGB,5,8,3,0,32,32, True, False, True,0.995
+RGB,5,8,3,0,32,32, False, True, True,0.9975
+RGB,5,8,3,0,32,32, False, False, True,0.9825
+RGB,5,8,3,1,16,16, True, True, True,0.9925
+RGB,5,8,3,1,16,16, True, False, True,0.9775
+RGB,5,8,3,1,16,16, False, True, True,0.995
+RGB,5,8,3,1,16,16, False, False, True,0.98
+RGB,5,8,3,1,16,32, True, True, True,1
+RGB,5,8,3,1,16,32, True, False, True,0.9925
+RGB,5,8,3,1,16,32, False, True, True,0.9925
+RGB,5,8,3,1,16,32, False, False, True,0.97
+RGB,5,8,3,1,32,16, True, True, True,0.9975
+RGB,5,8,3,1,32,16, True, False, True,0.9825
+RGB,5,8,3,1,32,16, False, True, True,0.995
+RGB,5,8,3,1,32,16, False, False, True,0.975
+RGB,5,8,3,1,32,32, True, True, True,0.99
+RGB,5,8,3,1,32,32, True, False, True,0.9875
+RGB,5,8,3,1,32,32, False, True, True,0.9975
+RGB,5,8,3,1,32,32, False, False, True,0.9775
+RGB,5,8,3,2,16,16, True, True, True,0.9875
+RGB,5,8,3,2,16,16, True, False, True,0.9825
+RGB,5,8,3,2,16,16, False, True, True,0.9925
+RGB,5,8,3,2,16,16, False, False, True,0.9775
+RGB,5,8,3,2,16,32, True, True, True,0.99
+RGB,5,8,3,2,16,32, True, False, True,0.99
+RGB,5,8,3,2,16,32, False, True, True,0.99
+RGB,5,8,3,2,16,32, False, False, True,0.9775
+RGB,5,8,3,2,32,16, True, True, True,0.995
+RGB,5,8,3,2,32,16, True, False, True,0.995
+RGB,5,8,3,2,32,16, False, True, True,0.9875
+RGB,5,8,3,2,32,16, False, False, True,0.99
+RGB,5,8,3,2,32,32, True, True, True,0.995
+RGB,5,8,3,2,32,32, True, False, True,0.99
+RGB,5,8,3,2,32,32, False, True, True,0.9925
+RGB,5,8,3,2,32,32, False, False, True,0.9825
+RGB,5,8,3, ALL,16,16, True, True, True,0.99
+RGB,5,8,3, ALL,16,16, True, False, True,0.995
+RGB,5,8,3, ALL,16,16, False, True, True,0.9925
+RGB,5,8,3, ALL,16,16, False, False, True,0.985
+RGB,5,8,3, ALL,16,32, True, True, True,0.99
+RGB,5,8,3, ALL,16,32, True, False, True,0.9825
+RGB,5,8,3, ALL,16,32, False, True, True,0.9925
+RGB,5,8,3, ALL,16,32, False, False, True,0.975
+RGB,5,8,3, ALL,32,16, True, True, True,0.995
+RGB,5,8,3, ALL,32,16, True, False, True,0.9825
+RGB,5,8,3, ALL,32,16, False, True, True,0.985
+RGB,5,8,3, ALL,32,16, False, False, True,0.98
+RGB,5,8,3, ALL,32,32, True, True, True,0.9925
+RGB,5,8,3, ALL,32,32, True, False, True,0.99
+RGB,5,8,3, ALL,32,32, False, True, True,0.9875
+RGB,5,8,3, ALL,32,32, False, False, True,0.9875
+RGB,5,8,4,0,16,16, True, True, True,0.99
+RGB,5,8,4,0,16,16, True, False, True,0.99
+RGB,5,8,4,0,16,16, False, True, True,0.99
+RGB,5,8,4,0,16,16, False, False, True,0.9725
+RGB,5,8,4,0,16,32, True, True, True,0.9975
+RGB,5,8,4,0,16,32, True, False, True,0.98
+RGB,5,8,4,0,16,32, False, True, True,0.99
+RGB,5,8,4,0,16,32, False, False, True,0.96
+RGB,5,8,4,0,32,16, True, True, True,0.9875
+RGB,5,8,4,0,32,16, True, False, True,0.9875
+RGB,5,8,4,0,32,16, False, True, True,0.985
+RGB,5,8,4,0,32,16, False, False, True,0.9725
+RGB,5,8,4,0,32,32, True, True, True,0.995
+RGB,5,8,4,0,32,32, True, False, True,0.9925
+RGB,5,8,4,0,32,32, False, True, True,0.9975
+RGB,5,8,4,0,32,32, False, False, True,0.965
+RGB,5,8,4,1,16,16, True, True, True,0.9875
+RGB,5,8,4,1,16,16, True, False, True,0.985
+RGB,5,8,4,1,16,16, False, True, True,0.9825
+RGB,5,8,4,1,16,16, False, False, True,0.9625
+RGB,5,8,4,1,16,32, True, True, True,0.99
+RGB,5,8,4,1,16,32, True, False, True,0.99
+RGB,5,8,4,1,16,32, False, True, True,0.9925
+RGB,5,8,4,1,16,32, False, False, True,0.9475
+RGB,5,8,4,1,32,16, True, True, True,0.99
+RGB,5,8,4,1,32,16, True, False, True,0.9875
+RGB,5,8,4,1,32,16, False, True, True,0.985
+RGB,5,8,4,1,32,16, False, False, True,0.955
+RGB,5,8,4,1,32,32, True, True, True,0.9925
+RGB,5,8,4,1,32,32, True, False, True,0.9825
+RGB,5,8,4,1,32,32, False, True, True,0.9975
+RGB,5,8,4,1,32,32, False, False, True,0.975
+RGB,5,8,4,2,16,16, True, True, True,0.99
+RGB,5,8,4,2,16,16, True, False, True,0.985
+RGB,5,8,4,2,16,16, False, True, True,0.9925
+RGB,5,8,4,2,16,16, False, False, True,0.9625
+RGB,5,8,4,2,16,32, True, True, True,0.9875
+RGB,5,8,4,2,16,32, True, False, True,0.9925
+RGB,5,8,4,2,16,32, False, True, True,0.98
+RGB,5,8,4,2,16,32, False, False, True,0.975
+RGB,5,8,4,2,32,16, True, True, True,0.9825
+RGB,5,8,4,2,32,16, True, False, True,0.98
+RGB,5,8,4,2,32,16, False, True, True,0.99
+RGB,5,8,4,2,32,16, False, False, True,0.975
+RGB,5,8,4,2,32,32, True, True, True,0.9975
+RGB,5,8,4,2,32,32, True, False, True,0.985
+RGB,5,8,4,2,32,32, False, True, True,0.9925
+RGB,5,8,4,2,32,32, False, False, True,0.9675
+RGB,5,8,4, ALL,16,16, True, True, True,0.995
+RGB,5,8,4, ALL,16,16, True, False, True,0.9875
+RGB,5,8,4, ALL,16,16, False, True, True,0.99
+RGB,5,8,4, ALL,16,16, False, False, True,0.9675
+RGB,5,8,4, ALL,16,32, True, True, True,0.99
+RGB,5,8,4, ALL,16,32, True, False, True,0.975
+RGB,5,8,4, ALL,16,32, False, True, True,0.98
+RGB,5,8,4, ALL,16,32, False, False, True,0.9775
+RGB,5,8,4, ALL,32,16, True, True, True,0.99
+RGB,5,8,4, ALL,32,16, True, False, True,0.9775
+RGB,5,8,4, ALL,32,16, False, True, True,0.98
+RGB,5,8,4, ALL,32,16, False, False, True,0.965
+RGB,5,8,4, ALL,32,32, True, True, True,0.9925
+RGB,5,8,4, ALL,32,32, True, False, True,0.985
+RGB,5,8,4, ALL,32,32, False, True, True,0.9825
+RGB,5,8,4, ALL,32,32, False, False, True,0.9775
+RGB,5,16,2,0,16,16, True, True, True,1
+RGB,5,16,2,0,16,16, True, False, True,0.9825
+RGB,5,16,2,0,16,16, False, True, True,1
+RGB,5,16,2,0,16,16, False, False, True,0.9725
+RGB,5,16,2,0,16,32, True, True, True,1
+RGB,5,16,2,0,16,32, True, False, True,0.9775
+RGB,5,16,2,0,16,32, False, True, True,1
+RGB,5,16,2,0,16,32, False, False, True,0.9825
+RGB,5,16,2,0,32,16, True, True, True,0.9975
+RGB,5,16,2,0,32,16, True, False, True,0.9775
+RGB,5,16,2,0,32,16, False, True, True,1
+RGB,5,16,2,0,32,16, False, False, True,0.9675
+RGB,5,16,2,0,32,32, True, True, True,0.995
+RGB,5,16,2,0,32,32, True, False, True,0.9825
+RGB,5,16,2,0,32,32, False, True, True,1
+RGB,5,16,2,0,32,32, False, False, True,0.9575
+RGB,5,16,2,1,16,16, True, True, True,0.9975
+RGB,5,16,2,1,16,16, True, False, True,0.99
+RGB,5,16,2,1,16,16, False, True, True,1
+RGB,5,16,2,1,16,16, False, False, True,0.9625
+RGB,5,16,2,1,16,32, True, True, True,0.9975
+RGB,5,16,2,1,16,32, True, False, True,0.995
+RGB,5,16,2,1,16,32, False, True, True,1
+RGB,5,16,2,1,16,32, False, False, True,0.96
+RGB,5,16,2,1,32,16, True, True, True,0.995
+RGB,5,16,2,1,32,16, True, False, True,0.9875
+RGB,5,16,2,1,32,16, False, True, True,1
+RGB,5,16,2,1,32,16, False, False, True,0.9675
+RGB,5,16,2,1,32,32, True, True, True,0.99
+RGB,5,16,2,1,32,32, True, False, True,0.985
+RGB,5,16,2,1,32,32, False, True, True,0.9975
+RGB,5,16,2,1,32,32, False, False, True,0.9725
+RGB,5,16,2,2,16,16, True, True, True,0.9975
+RGB,5,16,2,2,16,16, True, False, True,0.975
+RGB,5,16,2,2,16,16, False, True, True,0.9925
+RGB,5,16,2,2,16,16, False, False, True,0.9625
+RGB,5,16,2,2,16,32, True, True, True,0.99
+RGB,5,16,2,2,16,32, True, False, True,0.98
+RGB,5,16,2,2,16,32, False, True, True,1
+RGB,5,16,2,2,16,32, False, False, True,0.965
+RGB,5,16,2,2,32,16, True, True, True,0.99
+RGB,5,16,2,2,32,16, True, False, True,0.9875
+RGB,5,16,2,2,32,16, False, True, True,0.9975
+RGB,5,16,2,2,32,16, False, False, True,0.945
+RGB,5,16,2,2,32,32, True, True, True,0.9975
+RGB,5,16,2,2,32,32, True, False, True,0.9825
+RGB,5,16,2,2,32,32, False, True, True,1
+RGB,5,16,2,2,32,32, False, False, True,0.97
+RGB,5,16,2, ALL,16,16, True, True, True,0.9875
+RGB,5,16,2, ALL,16,16, True, False, True,0.985
+RGB,5,16,2, ALL,16,16, False, True, True,0.9925
+RGB,5,16,2, ALL,16,16, False, False, True,0.9625
+RGB,5,16,2, ALL,16,32, True, True, True,0.995
+RGB,5,16,2, ALL,16,32, True, False, True,0.9825
+RGB,5,16,2, ALL,16,32, False, True, True,1
+RGB,5,16,2, ALL,16,32, False, False, True,0.965
+RGB,5,16,2, ALL,32,16, True, True, True,0.9975
+RGB,5,16,2, ALL,32,16, True, False, True,0.985
+RGB,5,16,2, ALL,32,16, False, True, True,0.9975
+RGB,5,16,2, ALL,32,16, False, False, True,0.9775
+RGB,5,16,2, ALL,32,32, True, True, True,0.99
+RGB,5,16,2, ALL,32,32, True, False, True,0.9875
+RGB,5,16,2, ALL,32,32, False, True, True,1
+RGB,5,16,2, ALL,32,32, False, False, True,0.9675
+RGB,5,16,3,0,16,16, True, True, True,0.9975
+RGB,5,16,3,0,16,16, True, False, True,0.9825
+RGB,5,16,3,0,16,16, False, True, True,1
+RGB,5,16,3,0,16,16, False, False, True,0.95
+RGB,5,16,3,0,16,32, True, True, True,0.995
+RGB,5,16,3,0,16,32, True, False, True,0.9675
+RGB,5,16,3,0,16,32, False, True, True,0.9975
+RGB,5,16,3,0,16,32, False, False, True,0.9575
+RGB,5,16,3,0,32,16, True, True, True,0.985
+RGB,5,16,3,0,32,16, True, False, True,0.96
+RGB,5,16,3,0,32,16, False, True, True,1
+RGB,5,16,3,0,32,16, False, False, True,0.9625
+RGB,5,16,3,0,32,32, True, True, True,0.9925
+RGB,5,16,3,0,32,32, True, False, True,0.9775
+RGB,5,16,3,0,32,32, False, True, True,1
+RGB,5,16,3,0,32,32, False, False, True,0.9675
+RGB,5,16,3,1,16,16, True, True, True,0.995
+RGB,5,16,3,1,16,16, True, False, True,0.9875
+RGB,5,16,3,1,16,16, False, True, True,1
+RGB,5,16,3,1,16,16, False, False, True,0.96
+RGB,5,16,3,1,16,32, True, True, True,0.9975
+RGB,5,16,3,1,16,32, True, False, True,0.9775
+RGB,5,16,3,1,16,32, False, True, True,1
+RGB,5,16,3,1,16,32, False, False, True,0.9575
+RGB,5,16,3,1,32,16, True, True, True,0.9925
+RGB,5,16,3,1,32,16, True, False, True,0.975
+RGB,5,16,3,1,32,16, False, True, True,1
+RGB,5,16,3,1,32,16, False, False, True,0.9475
+RGB,5,16,3,1,32,32, True, True, True,0.9875
+RGB,5,16,3,1,32,32, True, False, True,0.975
+RGB,5,16,3,1,32,32, False, True, True,1
+RGB,5,16,3,1,32,32, False, False, True,0.95
+RGB,5,16,3,2,16,16, True, True, True,0.9975
+RGB,5,16,3,2,16,16, True, False, True,0.9925
+RGB,5,16,3,2,16,16, False, True, True,0.995
+RGB,5,16,3,2,16,16, False, False, True,0.9475
+RGB,5,16,3,2,16,32, True, True, True,0.995
+RGB,5,16,3,2,16,32, True, False, True,0.9875
+RGB,5,16,3,2,16,32, False, True, True,1
+RGB,5,16,3,2,16,32, False, False, True,0.9675
+RGB,5,16,3,2,32,16, True, True, True,0.9875
+RGB,5,16,3,2,32,16, True, False, True,0.9775
+RGB,5,16,3,2,32,16, False, True, True,0.99
+RGB,5,16,3,2,32,16, False, False, True,0.96
+RGB,5,16,3,2,32,32, True, True, True,0.995
+RGB,5,16,3,2,32,32, True, False, True,0.9725
+RGB,5,16,3,2,32,32, False, True, True,0.995
+RGB,5,16,3,2,32,32, False, False, True,0.95
+RGB,5,16,3, ALL,16,16, True, True, True,0.9975
+RGB,5,16,3, ALL,16,16, True, False, True,0.9775
+RGB,5,16,3, ALL,16,16, False, True, True,0.9925
+RGB,5,16,3, ALL,16,16, False, False, True,0.9575
+RGB,5,16,3, ALL,16,32, True, True, True,0.9975
+RGB,5,16,3, ALL,16,32, True, False, True,0.985
+RGB,5,16,3, ALL,16,32, False, True, True,0.995
+RGB,5,16,3, ALL,16,32, False, False, True,0.97
+RGB,5,16,3, ALL,32,16, True, True, True,1
+RGB,5,16,3, ALL,32,16, True, False, True,0.98
+RGB,5,16,3, ALL,32,16, False, True, True,0.9975
+RGB,5,16,3, ALL,32,16, False, False, True,0.9575
+RGB,5,16,3, ALL,32,32, True, True, True,0.9925
+RGB,5,16,3, ALL,32,32, True, False, True,0.9825
+RGB,5,16,3, ALL,32,32, False, True, True,0.995
+RGB,5,16,3, ALL,32,32, False, False, True,0.9675
+RGB,5,16,4,0,16,16, True, True, True,0.9875
+RGB,5,16,4,0,16,16, True, False, True,0.975
+RGB,5,16,4,0,16,16, False, True, True,0.995
+RGB,5,16,4,0,16,16, False, False, True,0.9525
+RGB,5,16,4,0,16,32, True, True, True,0.99
+RGB,5,16,4,0,16,32, True, False, True,0.96
+RGB,5,16,4,0,16,32, False, True, True,1
+RGB,5,16,4,0,16,32, False, False, True,0.9425
+RGB,5,16,4,0,32,16, True, True, True,0.9925
+RGB,5,16,4,0,32,16, True, False, True,0.9825
+RGB,5,16,4,0,32,16, False, True, True,1
+RGB,5,16,4,0,32,16, False, False, True,0.9575
+RGB,5,16,4,0,32,32, True, True, True,0.99
+RGB,5,16,4,0,32,32, True, False, True,0.9575
+RGB,5,16,4,0,32,32, False, True, True,0.9975
+RGB,5,16,4,0,32,32, False, False, True,0.9575
+RGB,5,16,4,1,16,16, True, True, True,0.995
+RGB,5,16,4,1,16,16, True, False, True,0.98
+RGB,5,16,4,1,16,16, False, True, True,1
+RGB,5,16,4,1,16,16, False, False, True,0.975
+RGB,5,16,4,1,16,32, True, True, True,1
+RGB,5,16,4,1,16,32, True, False, True,0.9725
+RGB,5,16,4,1,16,32, False, True, True,1
+RGB,5,16,4,1,16,32, False, False, True,0.965
+RGB,5,16,4,1,32,16, True, True, True,1
+RGB,5,16,4,1,32,16, True, False, True,0.9875
+RGB,5,16,4,1,32,16, False, True, True,0.9975
+RGB,5,16,4,1,32,16, False, False, True,0.9575
+RGB,5,16,4,1,32,32, True, True, True,0.9975
+RGB,5,16,4,1,32,32, True, False, True,0.9775
+RGB,5,16,4,1,32,32, False, True, True,0.9975
+RGB,5,16,4,1,32,32, False, False, True,0.9575
+RGB,5,16,4,2,16,16, True, True, True,0.9975
+RGB,5,16,4,2,16,16, True, False, True,0.9675
+RGB,5,16,4,2,16,16, False, True, True,0.9925
+RGB,5,16,4,2,16,16, False, False, True,0.9725
+RGB,5,16,4,2,16,32, True, True, True,0.9975
+RGB,5,16,4,2,16,32, True, False, True,0.9625
+RGB,5,16,4,2,16,32, False, True, True,1
+RGB,5,16,4,2,16,32, False, False, True,0.9525
+RGB,5,16,4,2,32,16, True, True, True,0.995
+RGB,5,16,4,2,32,16, True, False, True,0.98
+RGB,5,16,4,2,32,16, False, True, True,0.9925
+RGB,5,16,4,2,32,16, False, False, True,0.945
+RGB,5,16,4,2,32,32, True, True, True,0.9975
+RGB,5,16,4,2,32,32, True, False, True,0.98
+RGB,5,16,4,2,32,32, False, True, True,0.9975
+RGB,5,16,4,2,32,32, False, False, True,0.9525
+RGB,5,16,4, ALL,16,16, True, True, True,0.9975
+RGB,5,16,4, ALL,16,16, True, False, True,0.97
+RGB,5,16,4, ALL,16,16, False, True, True,0.995
+RGB,5,16,4, ALL,16,16, False, False, True,0.955
+RGB,5,16,4, ALL,16,32, True, True, True,0.9975
+RGB,5,16,4, ALL,16,32, True, False, True,0.9825
+RGB,5,16,4, ALL,16,32, False, True, True,1
+RGB,5,16,4, ALL,16,32, False, False, True,0.9625
+RGB,5,16,4, ALL,32,16, True, True, True,0.9975
+RGB,5,16,4, ALL,32,16, True, False, True,0.965
+RGB,5,16,4, ALL,32,16, False, True, True,0.9925
+RGB,5,16,4, ALL,32,16, False, False, True,0.9275
+RGB,5,16,4, ALL,32,32, True, True, True,1
+RGB,5,16,4, ALL,32,32, True, False, True,0.9775
+RGB,5,16,4, ALL,32,32, False, True, True,0.995
+RGB,5,16,4, ALL,32,32, False, False, True,0.9325

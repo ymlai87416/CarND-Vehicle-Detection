@@ -1,0 +1,768 @@
+LUV,9,8,2,0,16,16, True, True, True,0.985
+LUV,9,8,2,0,16,16, True, False, True,0.9925
+LUV,9,8,2,0,16,16, False, True, True,0.99
+LUV,9,8,2,0,16,16, False, False, True,0.975
+LUV,9,8,2,0,16,32, True, True, True,0.9925
+LUV,9,8,2,0,16,32, True, False, True,0.985
+LUV,9,8,2,0,16,32, False, True, True,0.9975
+LUV,9,8,2,0,16,32, False, False, True,0.98
+LUV,9,8,2,0,32,16, True, True, True,0.9925
+LUV,9,8,2,0,32,16, True, False, True,0.9925
+LUV,9,8,2,0,32,16, False, True, True,0.99
+LUV,9,8,2,0,32,16, False, False, True,0.985
+LUV,9,8,2,0,32,32, True, True, True,0.995
+LUV,9,8,2,0,32,32, True, False, True,0.9825
+LUV,9,8,2,0,32,32, False, True, True,0.99
+LUV,9,8,2,0,32,32, False, False, True,0.9775
+LUV,9,8,2,1,16,16, True, True, True,0.9875
+LUV,9,8,2,1,16,16, True, False, True,0.99
+LUV,9,8,2,1,16,16, False, True, True,0.9925
+LUV,9,8,2,1,16,16, False, False, True,0.9375
+LUV,9,8,2,1,16,32, True, True, True,0.995
+LUV,9,8,2,1,16,32, True, False, True,0.99
+LUV,9,8,2,1,16,32, False, True, True,0.995
+LUV,9,8,2,1,16,32, False, False, True,0.9475
+LUV,9,8,2,1,32,16, True, True, True,0.9975
+LUV,9,8,2,1,32,16, True, False, True,0.9925
+LUV,9,8,2,1,32,16, False, True, True,0.99
+LUV,9,8,2,1,32,16, False, False, True,0.94
+LUV,9,8,2,1,32,32, True, True, True,0.9975
+LUV,9,8,2,1,32,32, True, False, True,0.985
+LUV,9,8,2,1,32,32, False, True, True,0.995
+LUV,9,8,2,1,32,32, False, False, True,0.9475
+LUV,9,8,2,2,16,16, True, True, True,0.99
+LUV,9,8,2,2,16,16, True, False, True,0.99
+LUV,9,8,2,2,16,16, False, True, True,0.9875
+LUV,9,8,2,2,16,16, False, False, True,0.9475
+LUV,9,8,2,2,16,32, True, True, True,0.9975
+LUV,9,8,2,2,16,32, True, False, True,0.9775
+LUV,9,8,2,2,16,32, False, True, True,0.9875
+LUV,9,8,2,2,16,32, False, False, True,0.9425
+LUV,9,8,2,2,32,16, True, True, True,0.985
+LUV,9,8,2,2,32,16, True, False, True,0.985
+LUV,9,8,2,2,32,16, False, True, True,0.9825
+LUV,9,8,2,2,32,16, False, False, True,0.9325
+LUV,9,8,2,2,32,32, True, True, True,0.99
+LUV,9,8,2,2,32,32, True, False, True,0.9875
+LUV,9,8,2,2,32,32, False, True, True,0.9825
+LUV,9,8,2,2,32,32, False, False, True,0.94
+LUV,9,8,2, ALL,16,16, True, True, True,0.9975
+LUV,9,8,2, ALL,16,16, True, False, True,0.9925
+LUV,9,8,2, ALL,16,16, False, True, True,0.9925
+LUV,9,8,2, ALL,16,16, False, False, True,0.99
+LUV,9,8,2, ALL,16,32, True, True, True,0.9975
+LUV,9,8,2, ALL,16,32, True, False, True,1
+LUV,9,8,2, ALL,16,32, False, True, True,0.995
+LUV,9,8,2, ALL,16,32, False, False, True,0.99
+LUV,9,8,2, ALL,32,16, True, True, True,0.9975
+LUV,9,8,2, ALL,32,16, True, False, True,0.995
+LUV,9,8,2, ALL,32,16, False, True, True,0.995
+LUV,9,8,2, ALL,32,16, False, False, True,0.99
+LUV,9,8,2, ALL,32,32, True, True, True,0.9925
+LUV,9,8,2, ALL,32,32, True, False, True,0.9975
+LUV,9,8,2, ALL,32,32, False, True, True,0.9975
+LUV,9,8,2, ALL,32,32, False, False, True,0.9875
+LUV,9,8,3,0,16,16, True, True, True,0.9925
+LUV,9,8,3,0,16,16, True, False, True,0.9975
+LUV,9,8,3,0,16,16, False, True, True,0.9775
+LUV,9,8,3,0,16,16, False, False, True,0.9825
+LUV,9,8,3,0,16,32, True, True, True,0.9925
+LUV,9,8,3,0,16,32, True, False, True,0.99
+LUV,9,8,3,0,16,32, False, True, True,0.99
+LUV,9,8,3,0,16,32, False, False, True,0.9725
+LUV,9,8,3,0,32,16, True, True, True,0.985
+LUV,9,8,3,0,32,16, True, False, True,0.99
+LUV,9,8,3,0,32,16, False, True, True,0.9875
+LUV,9,8,3,0,32,16, False, False, True,0.9875
+LUV,9,8,3,0,32,32, True, True, True,0.995
+LUV,9,8,3,0,32,32, True, False, True,0.99
+LUV,9,8,3,0,32,32, False, True, True,0.985
+LUV,9,8,3,0,32,32, False, False, True,0.9875
+LUV,9,8,3,1,16,16, True, True, True,0.995
+LUV,9,8,3,1,16,16, True, False, True,0.985
+LUV,9,8,3,1,16,16, False, True, True,0.9825
+LUV,9,8,3,1,16,16, False, False, True,0.94
+LUV,9,8,3,1,16,32, True, True, True,0.9925
+LUV,9,8,3,1,16,32, True, False, True,0.99
+LUV,9,8,3,1,16,32, False, True, True,0.9925
+LUV,9,8,3,1,16,32, False, False, True,0.9225
+LUV,9,8,3,1,32,16, True, True, True,0.9975
+LUV,9,8,3,1,32,16, True, False, True,0.99
+LUV,9,8,3,1,32,16, False, True, True,0.98
+LUV,9,8,3,1,32,16, False, False, True,0.9475
+LUV,9,8,3,1,32,32, True, True, True,0.9925
+LUV,9,8,3,1,32,32, True, False, True,0.9925
+LUV,9,8,3,1,32,32, False, True, True,0.985
+LUV,9,8,3,1,32,32, False, False, True,0.9325
+LUV,9,8,3,2,16,16, True, True, True,0.995
+LUV,9,8,3,2,16,16, True, False, True,0.9925
+LUV,9,8,3,2,16,16, False, True, True,0.9875
+LUV,9,8,3,2,16,16, False, False, True,0.935
+LUV,9,8,3,2,16,32, True, True, True,0.995
+LUV,9,8,3,2,16,32, True, False, True,0.995
+LUV,9,8,3,2,16,32, False, True, True,0.9825
+LUV,9,8,3,2,16,32, False, False, True,0.935
+LUV,9,8,3,2,32,16, True, True, True,0.99
+LUV,9,8,3,2,32,16, True, False, True,0.9875
+LUV,9,8,3,2,32,16, False, True, True,0.9825
+LUV,9,8,3,2,32,16, False, False, True,0.9225
+LUV,9,8,3,2,32,32, True, True, True,0.9875
+LUV,9,8,3,2,32,32, True, False, True,0.985
+LUV,9,8,3,2,32,32, False, True, True,0.9825
+LUV,9,8,3,2,32,32, False, False, True,0.955
+LUV,9,8,3, ALL,16,16, True, True, True,0.995
+LUV,9,8,3, ALL,16,16, True, False, True,0.9975
+LUV,9,8,3, ALL,16,16, False, True, True,0.9875
+LUV,9,8,3, ALL,16,16, False, False, True,0.99
+LUV,9,8,3, ALL,16,32, True, True, True,0.9975
+LUV,9,8,3, ALL,16,32, True, False, True,0.9925
+LUV,9,8,3, ALL,16,32, False, True, True,0.995
+LUV,9,8,3, ALL,16,32, False, False, True,0.995
+LUV,9,8,3, ALL,32,16, True, True, True,1
+LUV,9,8,3, ALL,32,16, True, False, True,1
+LUV,9,8,3, ALL,32,16, False, True, True,0.995
+LUV,9,8,3, ALL,32,16, False, False, True,0.98
+LUV,9,8,3, ALL,32,32, True, True, True,0.995
+LUV,9,8,3, ALL,32,32, True, False, True,0.99
+LUV,9,8,3, ALL,32,32, False, True, True,0.9875
+LUV,9,8,3, ALL,32,32, False, False, True,0.985
+LUV,9,8,4,0,16,16, True, True, True,0.995
+LUV,9,8,4,0,16,16, True, False, True,0.9875
+LUV,9,8,4,0,16,16, False, True, True,0.985
+LUV,9,8,4,0,16,16, False, False, True,0.98
+LUV,9,8,4,0,16,32, True, True, True,0.995
+LUV,9,8,4,0,16,32, True, False, True,0.985
+LUV,9,8,4,0,16,32, False, True, True,0.99
+LUV,9,8,4,0,16,32, False, False, True,0.98
+LUV,9,8,4,0,32,16, True, True, True,0.9875
+LUV,9,8,4,0,32,16, True, False, True,0.985
+LUV,9,8,4,0,32,16, False, True, True,0.98
+LUV,9,8,4,0,32,16, False, False, True,0.9725
+LUV,9,8,4,0,32,32, True, True, True,0.99
+LUV,9,8,4,0,32,32, True, False, True,0.995
+LUV,9,8,4,0,32,32, False, True, True,0.985
+LUV,9,8,4,0,32,32, False, False, True,0.9675
+LUV,9,8,4,1,16,16, True, True, True,0.9975
+LUV,9,8,4,1,16,16, True, False, True,0.985
+LUV,9,8,4,1,16,16, False, True, True,0.985
+LUV,9,8,4,1,16,16, False, False, True,0.9325
+LUV,9,8,4,1,16,32, True, True, True,1
+LUV,9,8,4,1,16,32, True, False, True,0.9975
+LUV,9,8,4,1,16,32, False, True, True,0.9925
+LUV,9,8,4,1,16,32, False, False, True,0.9425
+LUV,9,8,4,1,32,16, True, True, True,0.9925
+LUV,9,8,4,1,32,16, True, False, True,0.9975
+LUV,9,8,4,1,32,16, False, True, True,0.9775
+LUV,9,8,4,1,32,16, False, False, True,0.94
+LUV,9,8,4,1,32,32, True, True, True,0.9925
+LUV,9,8,4,1,32,32, True, False, True,0.9875
+LUV,9,8,4,1,32,32, False, True, True,0.9975
+LUV,9,8,4,1,32,32, False, False, True,0.9475
+LUV,9,8,4,2,16,16, True, True, True,0.9825
+LUV,9,8,4,2,16,16, True, False, True,0.98
+LUV,9,8,4,2,16,16, False, True, True,0.9825
+LUV,9,8,4,2,16,16, False, False, True,0.9225
+LUV,9,8,4,2,16,32, True, True, True,0.9925
+LUV,9,8,4,2,16,32, True, False, True,0.98
+LUV,9,8,4,2,16,32, False, True, True,0.9925
+LUV,9,8,4,2,16,32, False, False, True,0.9075
+LUV,9,8,4,2,32,16, True, True, True,0.9825
+LUV,9,8,4,2,32,16, True, False, True,0.9925
+LUV,9,8,4,2,32,16, False, True, True,0.9775
+LUV,9,8,4,2,32,16, False, False, True,0.9325
+LUV,9,8,4,2,32,32, True, True, True,0.9875
+LUV,9,8,4,2,32,32, True, False, True,0.98
+LUV,9,8,4,2,32,32, False, True, True,0.9925
+LUV,9,8,4,2,32,32, False, False, True,0.9225
+LUV,9,8,4, ALL,16,16, True, True, True,1
+LUV,9,8,4, ALL,16,16, True, False, True,0.9925
+LUV,9,8,4, ALL,16,16, False, True, True,0.9875
+LUV,9,8,4, ALL,16,16, False, False, True,0.9875
+LUV,9,8,4, ALL,16,32, True, True, True,1
+LUV,9,8,4, ALL,16,32, True, False, True,0.9975
+LUV,9,8,4, ALL,16,32, False, True, True,0.9975
+LUV,9,8,4, ALL,16,32, False, False, True,0.995
+LUV,9,8,4, ALL,32,16, True, True, True,0.9925
+LUV,9,8,4, ALL,32,16, True, False, True,0.9925
+LUV,9,8,4, ALL,32,16, False, True, True,0.99
+LUV,9,8,4, ALL,32,16, False, False, True,0.985
+LUV,9,8,4, ALL,32,32, True, True, True,0.995
+LUV,9,8,4, ALL,32,32, True, False, True,0.995
+LUV,9,8,4, ALL,32,32, False, True, True,0.9975
+LUV,9,8,4, ALL,32,32, False, False, True,0.9875
+LUV,9,16,2,0,16,16, True, True, True,0.995
+LUV,9,16,2,0,16,16, True, False, True,0.9825
+LUV,9,16,2,0,16,16, False, True, True,0.995
+LUV,9,16,2,0,16,16, False, False, True,0.9625
+LUV,9,16,2,0,16,32, True, True, True,0.9925
+LUV,9,16,2,0,16,32, True, False, True,0.9925
+LUV,9,16,2,0,16,32, False, True, True,0.9975
+LUV,9,16,2,0,16,32, False, False, True,0.98
+LUV,9,16,2,0,32,16, True, True, True,0.9875
+LUV,9,16,2,0,32,16, True, False, True,0.9875
+LUV,9,16,2,0,32,16, False, True, True,0.9975
+LUV,9,16,2,0,32,16, False, False, True,0.9725
+LUV,9,16,2,0,32,32, True, True, True,0.995
+LUV,9,16,2,0,32,32, True, False, True,0.985
+LUV,9,16,2,0,32,32, False, True, True,0.9975
+LUV,9,16,2,0,32,32, False, False, True,0.97
+LUV,9,16,2,1,16,16, True, True, True,0.9975
+LUV,9,16,2,1,16,16, True, False, True,0.9825
+LUV,9,16,2,1,16,16, False, True, True,1
+LUV,9,16,2,1,16,16, False, False, True,0.92
+LUV,9,16,2,1,16,32, True, True, True,0.9975
+LUV,9,16,2,1,16,32, True, False, True,0.9875
+LUV,9,16,2,1,16,32, False, True, True,1
+LUV,9,16,2,1,16,32, False, False, True,0.9375
+LUV,9,16,2,1,32,16, True, True, True,0.9875
+LUV,9,16,2,1,32,16, True, False, True,0.9925
+LUV,9,16,2,1,32,16, False, True, True,1
+LUV,9,16,2,1,32,16, False, False, True,0.91
+LUV,9,16,2,1,32,32, True, True, True,0.9925
+LUV,9,16,2,1,32,32, True, False, True,0.9975
+LUV,9,16,2,1,32,32, False, True, True,1
+LUV,9,16,2,1,32,32, False, False, True,0.915
+LUV,9,16,2,2,16,16, True, True, True,0.995
+LUV,9,16,2,2,16,16, True, False, True,0.98
+LUV,9,16,2,2,16,16, False, True, True,0.995
+LUV,9,16,2,2,16,16, False, False, True,0.91
+LUV,9,16,2,2,16,32, True, True, True,0.9975
+LUV,9,16,2,2,16,32, True, False, True,0.9775
+LUV,9,16,2,2,16,32, False, True, True,1
+LUV,9,16,2,2,16,32, False, False, True,0.905
+LUV,9,16,2,2,32,16, True, True, True,0.9825
+LUV,9,16,2,2,32,16, True, False, True,0.9725
+LUV,9,16,2,2,32,16, False, True, True,0.9975
+LUV,9,16,2,2,32,16, False, False, True,0.895
+LUV,9,16,2,2,32,32, True, True, True,0.9925
+LUV,9,16,2,2,32,32, True, False, True,0.99
+LUV,9,16,2,2,32,32, False, True, True,1
+LUV,9,16,2,2,32,32, False, False, True,0.9325
+LUV,9,16,2, ALL,16,16, True, True, True,1
+LUV,9,16,2, ALL,16,16, True, False, True,1
+LUV,9,16,2, ALL,16,16, False, True, True,0.995
+LUV,9,16,2, ALL,16,16, False, False, True,0.99
+LUV,9,16,2, ALL,16,32, True, True, True,0.9975
+LUV,9,16,2, ALL,16,32, True, False, True,0.9925
+LUV,9,16,2, ALL,16,32, False, True, True,0.995
+LUV,9,16,2, ALL,16,32, False, False, True,0.9825
+LUV,9,16,2, ALL,32,16, True, True, True,0.9925
+LUV,9,16,2, ALL,32,16, True, False, True,0.9975
+LUV,9,16,2, ALL,32,16, False, True, True,0.9975
+LUV,9,16,2, ALL,32,16, False, False, True,0.9875
+LUV,9,16,2, ALL,32,32, True, True, True,0.995
+LUV,9,16,2, ALL,32,32, True, False, True,0.9975
+LUV,9,16,2, ALL,32,32, False, True, True,0.9975
+LUV,9,16,2, ALL,32,32, False, False, True,0.975
+LUV,9,16,3,0,16,16, True, True, True,1
+LUV,9,16,3,0,16,16, True, False, True,0.98
+LUV,9,16,3,0,16,16, False, True, True,0.9975
+LUV,9,16,3,0,16,16, False, False, True,0.9575
+LUV,9,16,3,0,16,32, True, True, True,1
+LUV,9,16,3,0,16,32, True, False, True,0.99
+LUV,9,16,3,0,16,32, False, True, True,0.9975
+LUV,9,16,3,0,16,32, False, False, True,0.96
+LUV,9,16,3,0,32,16, True, True, True,0.9925
+LUV,9,16,3,0,32,16, True, False, True,0.99
+LUV,9,16,3,0,32,16, False, True, True,0.9975
+LUV,9,16,3,0,32,16, False, False, True,0.9575
+LUV,9,16,3,0,32,32, True, True, True,0.99
+LUV,9,16,3,0,32,32, True, False, True,0.98
+LUV,9,16,3,0,32,32, False, True, True,1
+LUV,9,16,3,0,32,32, False, False, True,0.9675
+LUV,9,16,3,1,16,16, True, True, True,0.9975
+LUV,9,16,3,1,16,16, True, False, True,0.985
+LUV,9,16,3,1,16,16, False, True, True,1
+LUV,9,16,3,1,16,16, False, False, True,0.8975
+LUV,9,16,3,1,16,32, True, True, True,1
+LUV,9,16,3,1,16,32, True, False, True,0.995
+LUV,9,16,3,1,16,32, False, True, True,1
+LUV,9,16,3,1,16,32, False, False, True,0.9175
+LUV,9,16,3,1,32,16, True, True, True,0.99
+LUV,9,16,3,1,32,16, True, False, True,0.98
+LUV,9,16,3,1,32,16, False, True, True,0.9975
+LUV,9,16,3,1,32,16, False, False, True,0.925
+LUV,9,16,3,1,32,32, True, True, True,0.9975
+LUV,9,16,3,1,32,32, True, False, True,0.99
+LUV,9,16,3,1,32,32, False, True, True,1
+LUV,9,16,3,1,32,32, False, False, True,0.93
+LUV,9,16,3,2,16,16, True, True, True,0.995
+LUV,9,16,3,2,16,16, True, False, True,0.985
+LUV,9,16,3,2,16,16, False, True, True,1
+LUV,9,16,3,2,16,16, False, False, True,0.9075
+LUV,9,16,3,2,16,32, True, True, True,0.9925
+LUV,9,16,3,2,16,32, True, False, True,0.9775
+LUV,9,16,3,2,16,32, False, True, True,1
+LUV,9,16,3,2,16,32, False, False, True,0.8825
+LUV,9,16,3,2,32,16, True, True, True,0.99
+LUV,9,16,3,2,32,16, True, False, True,0.98
+LUV,9,16,3,2,32,16, False, True, True,0.9925
+LUV,9,16,3,2,32,16, False, False, True,0.89
+LUV,9,16,3,2,32,32, True, True, True,0.99
+LUV,9,16,3,2,32,32, True, False, True,0.98
+LUV,9,16,3,2,32,32, False, True, True,1
+LUV,9,16,3,2,32,32, False, False, True,0.9125
+LUV,9,16,3, ALL,16,16, True, True, True,0.9975
+LUV,9,16,3, ALL,16,16, True, False, True,0.9925
+LUV,9,16,3, ALL,16,16, False, True, True,0.995
+LUV,9,16,3, ALL,16,16, False, False, True,0.98
+LUV,9,16,3, ALL,16,32, True, True, True,0.9975
+LUV,9,16,3, ALL,16,32, True, False, True,0.9975
+LUV,9,16,3, ALL,16,32, False, True, True,0.995
+LUV,9,16,3, ALL,16,32, False, False, True,0.9625
+LUV,9,16,3, ALL,32,16, True, True, True,0.995
+LUV,9,16,3, ALL,32,16, True, False, True,1
+LUV,9,16,3, ALL,32,16, False, True, True,0.9975
+LUV,9,16,3, ALL,32,16, False, False, True,0.9775
+LUV,9,16,3, ALL,32,32, True, True, True,1
+LUV,9,16,3, ALL,32,32, True, False, True,1
+LUV,9,16,3, ALL,32,32, False, True, True,1
+LUV,9,16,3, ALL,32,32, False, False, True,0.9675
+LUV,9,16,4,0,16,16, True, True, True,0.9975
+LUV,9,16,4,0,16,16, True, False, True,0.985
+LUV,9,16,4,0,16,16, False, True, True,0.9925
+LUV,9,16,4,0,16,16, False, False, True,0.9425
+LUV,9,16,4,0,16,32, True, True, True,1
+LUV,9,16,4,0,16,32, True, False, True,0.9925
+LUV,9,16,4,0,16,32, False, True, True,1
+LUV,9,16,4,0,16,32, False, False, True,0.9525
+LUV,9,16,4,0,32,16, True, True, True,0.985
+LUV,9,16,4,0,32,16, True, False, True,0.98
+LUV,9,16,4,0,32,16, False, True, True,0.995
+LUV,9,16,4,0,32,16, False, False, True,0.9625
+LUV,9,16,4,0,32,32, True, True, True,0.9975
+LUV,9,16,4,0,32,32, True, False, True,0.985
+LUV,9,16,4,0,32,32, False, True, True,1
+LUV,9,16,4,0,32,32, False, False, True,0.95
+LUV,9,16,4,1,16,16, True, True, True,1
+LUV,9,16,4,1,16,16, True, False, True,0.99
+LUV,9,16,4,1,16,16, False, True, True,0.99
+LUV,9,16,4,1,16,16, False, False, True,0.95
+LUV,9,16,4,1,16,32, True, True, True,1
+LUV,9,16,4,1,16,32, True, False, True,0.985
+LUV,9,16,4,1,16,32, False, True, True,0.9975
+LUV,9,16,4,1,16,32, False, False, True,0.9275
+LUV,9,16,4,1,32,16, True, True, True,0.9875
+LUV,9,16,4,1,32,16, True, False, True,0.975
+LUV,9,16,4,1,32,16, False, True, True,1
+LUV,9,16,4,1,32,16, False, False, True,0.92
+LUV,9,16,4,1,32,32, True, True, True,0.9925
+LUV,9,16,4,1,32,32, True, False, True,0.9825
+LUV,9,16,4,1,32,32, False, True, True,1
+LUV,9,16,4,1,32,32, False, False, True,0.9325
+LUV,9,16,4,2,16,16, True, True, True,1
+LUV,9,16,4,2,16,16, True, False, True,0.9775
+LUV,9,16,4,2,16,16, False, True, True,0.99
+LUV,9,16,4,2,16,16, False, False, True,0.9325
+LUV,9,16,4,2,16,32, True, True, True,1
+LUV,9,16,4,2,16,32, True, False, True,0.9775
+LUV,9,16,4,2,16,32, False, True, True,1
+LUV,9,16,4,2,16,32, False, False, True,0.93
+LUV,9,16,4,2,32,16, True, True, True,0.9875
+LUV,9,16,4,2,32,16, True, False, True,0.975
+LUV,9,16,4,2,32,16, False, True, True,0.9975
+LUV,9,16,4,2,32,16, False, False, True,0.9375
+LUV,9,16,4,2,32,32, True, True, True,0.9875
+LUV,9,16,4,2,32,32, True, False, True,0.9625
+LUV,9,16,4,2,32,32, False, True, True,1
+LUV,9,16,4,2,32,32, False, False, True,0.9225
+LUV,9,16,4, ALL,16,16, True, True, True,0.995
+LUV,9,16,4, ALL,16,16, True, False, True,0.995
+LUV,9,16,4, ALL,16,16, False, True, True,1
+LUV,9,16,4, ALL,16,16, False, False, True,0.965
+LUV,9,16,4, ALL,16,32, True, True, True,1
+LUV,9,16,4, ALL,16,32, True, False, True,0.99
+LUV,9,16,4, ALL,16,32, False, True, True,1
+LUV,9,16,4, ALL,16,32, False, False, True,0.985
+LUV,9,16,4, ALL,32,16, True, True, True,0.9975
+LUV,9,16,4, ALL,32,16, True, False, True,0.985
+LUV,9,16,4, ALL,32,16, False, True, True,1
+LUV,9,16,4, ALL,32,16, False, False, True,0.965
+LUV,9,16,4, ALL,32,32, True, True, True,1
+LUV,9,16,4, ALL,32,32, True, False, True,0.9825
+LUV,9,16,4, ALL,32,32, False, True, True,0.995
+LUV,9,16,4, ALL,32,32, False, False, True,0.9725
+LUV,5,8,2,0,16,16, True, True, True,0.995
+LUV,5,8,2,0,16,16, True, False, True,0.9925
+LUV,5,8,2,0,16,16, False, True, True,0.9975
+LUV,5,8,2,0,16,16, False, False, True,0.98
+LUV,5,8,2,0,16,32, True, True, True,1
+LUV,5,8,2,0,16,32, True, False, True,0.9975
+LUV,5,8,2,0,16,32, False, True, True,0.995
+LUV,5,8,2,0,16,32, False, False, True,0.965
+LUV,5,8,2,0,32,16, True, True, True,0.9975
+LUV,5,8,2,0,32,16, True, False, True,0.9925
+LUV,5,8,2,0,32,16, False, True, True,0.9925
+LUV,5,8,2,0,32,16, False, False, True,0.9775
+LUV,5,8,2,0,32,32, True, True, True,0.995
+LUV,5,8,2,0,32,32, True, False, True,0.9825
+LUV,5,8,2,0,32,32, False, True, True,0.9975
+LUV,5,8,2,0,32,32, False, False, True,0.975
+LUV,5,8,2,1,16,16, True, True, True,0.985
+LUV,5,8,2,1,16,16, True, False, True,0.9725
+LUV,5,8,2,1,16,16, False, True, True,0.995
+LUV,5,8,2,1,16,16, False, False, True,0.925
+LUV,5,8,2,1,16,32, True, True, True,0.9925
+LUV,5,8,2,1,16,32, True, False, True,0.99
+LUV,5,8,2,1,16,32, False, True, True,0.9875
+LUV,5,8,2,1,16,32, False, False, True,0.9175
+LUV,5,8,2,1,32,16, True, True, True,0.9925
+LUV,5,8,2,1,32,16, True, False, True,0.98
+LUV,5,8,2,1,32,16, False, True, True,0.9825
+LUV,5,8,2,1,32,16, False, False, True,0.935
+LUV,5,8,2,1,32,32, True, True, True,0.995
+LUV,5,8,2,1,32,32, True, False, True,0.985
+LUV,5,8,2,1,32,32, False, True, True,0.995
+LUV,5,8,2,1,32,32, False, False, True,0.93
+LUV,5,8,2,2,16,16, True, True, True,0.9875
+LUV,5,8,2,2,16,16, True, False, True,0.995
+LUV,5,8,2,2,16,16, False, True, True,0.9975
+LUV,5,8,2,2,16,16, False, False, True,0.9425
+LUV,5,8,2,2,16,32, True, True, True,0.9975
+LUV,5,8,2,2,16,32, True, False, True,0.9775
+LUV,5,8,2,2,16,32, False, True, True,0.9975
+LUV,5,8,2,2,16,32, False, False, True,0.925
+LUV,5,8,2,2,32,16, True, True, True,0.9775
+LUV,5,8,2,2,32,16, True, False, True,0.9725
+LUV,5,8,2,2,32,16, False, True, True,0.98
+LUV,5,8,2,2,32,16, False, False, True,0.9425
+LUV,5,8,2,2,32,32, True, True, True,0.9925
+LUV,5,8,2,2,32,32, True, False, True,0.975
+LUV,5,8,2,2,32,32, False, True, True,0.995
+LUV,5,8,2,2,32,32, False, False, True,0.9425
+LUV,5,8,2, ALL,16,16, True, True, True,0.9975
+LUV,5,8,2, ALL,16,16, True, False, True,1
+LUV,5,8,2, ALL,16,16, False, True, True,0.99
+LUV,5,8,2, ALL,16,16, False, False, True,0.995
+LUV,5,8,2, ALL,16,32, True, True, True,1
+LUV,5,8,2, ALL,16,32, True, False, True,0.9975
+LUV,5,8,2, ALL,16,32, False, True, True,0.9975
+LUV,5,8,2, ALL,16,32, False, False, True,0.99
+LUV,5,8,2, ALL,32,16, True, True, True,0.9975
+LUV,5,8,2, ALL,32,16, True, False, True,0.995
+LUV,5,8,2, ALL,32,16, False, True, True,0.9875
+LUV,5,8,2, ALL,32,16, False, False, True,0.99
+LUV,5,8,2, ALL,32,32, True, True, True,0.9925
+LUV,5,8,2, ALL,32,32, True, False, True,0.9925
+LUV,5,8,2, ALL,32,32, False, True, True,0.995
+LUV,5,8,2, ALL,32,32, False, False, True,0.985
+LUV,5,8,3,0,16,16, True, True, True,0.9975
+LUV,5,8,3,0,16,16, True, False, True,0.995
+LUV,5,8,3,0,16,16, False, True, True,0.9975
+LUV,5,8,3,0,16,16, False, False, True,0.98
+LUV,5,8,3,0,16,32, True, True, True,0.9975
+LUV,5,8,3,0,16,32, True, False, True,0.99
+LUV,5,8,3,0,16,32, False, True, True,0.9975
+LUV,5,8,3,0,16,32, False, False, True,0.9675
+LUV,5,8,3,0,32,16, True, True, True,0.9875
+LUV,5,8,3,0,32,16, True, False, True,0.9925
+LUV,5,8,3,0,32,16, False, True, True,0.99
+LUV,5,8,3,0,32,16, False, False, True,0.9925
+LUV,5,8,3,0,32,32, True, True, True,0.995
+LUV,5,8,3,0,32,32, True, False, True,1
+LUV,5,8,3,0,32,32, False, True, True,0.9875
+LUV,5,8,3,0,32,32, False, False, True,0.995
+LUV,5,8,3,1,16,16, True, True, True,0.995
+LUV,5,8,3,1,16,16, True, False, True,0.9875
+LUV,5,8,3,1,16,16, False, True, True,0.9825
+LUV,5,8,3,1,16,16, False, False, True,0.9325
+LUV,5,8,3,1,16,32, True, True, True,0.9925
+LUV,5,8,3,1,16,32, True, False, True,0.9875
+LUV,5,8,3,1,16,32, False, True, True,0.995
+LUV,5,8,3,1,16,32, False, False, True,0.92
+LUV,5,8,3,1,32,16, True, True, True,0.99
+LUV,5,8,3,1,32,16, True, False, True,0.99
+LUV,5,8,3,1,32,16, False, True, True,0.975
+LUV,5,8,3,1,32,16, False, False, True,0.9475
+LUV,5,8,3,1,32,32, True, True, True,0.9875
+LUV,5,8,3,1,32,32, True, False, True,0.9825
+LUV,5,8,3,1,32,32, False, True, True,0.99
+LUV,5,8,3,1,32,32, False, False, True,0.9075
+LUV,5,8,3,2,16,16, True, True, True,0.99
+LUV,5,8,3,2,16,16, True, False, True,0.99
+LUV,5,8,3,2,16,16, False, True, True,0.985
+LUV,5,8,3,2,16,16, False, False, True,0.9275
+LUV,5,8,3,2,16,32, True, True, True,0.9875
+LUV,5,8,3,2,16,32, True, False, True,0.985
+LUV,5,8,3,2,16,32, False, True, True,0.9925
+LUV,5,8,3,2,16,32, False, False, True,0.9325
+LUV,5,8,3,2,32,16, True, True, True,0.985
+LUV,5,8,3,2,32,16, True, False, True,0.9875
+LUV,5,8,3,2,32,16, False, True, True,0.98
+LUV,5,8,3,2,32,16, False, False, True,0.92
+LUV,5,8,3,2,32,32, True, True, True,0.9925
+LUV,5,8,3,2,32,32, True, False, True,0.985
+LUV,5,8,3,2,32,32, False, True, True,0.9975
+LUV,5,8,3,2,32,32, False, False, True,0.9075
+LUV,5,8,3, ALL,16,16, True, True, True,0.9975
+LUV,5,8,3, ALL,16,16, True, False, True,0.995
+LUV,5,8,3, ALL,16,16, False, True, True,0.9925
+LUV,5,8,3, ALL,16,16, False, False, True,0.9875
+LUV,5,8,3, ALL,16,32, True, True, True,0.9975
+LUV,5,8,3, ALL,16,32, True, False, True,0.9925
+LUV,5,8,3, ALL,16,32, False, True, True,0.995
+LUV,5,8,3, ALL,16,32, False, False, True,0.985
+LUV,5,8,3, ALL,32,16, True, True, True,1
+LUV,5,8,3, ALL,32,16, True, False, True,0.995
+LUV,5,8,3, ALL,32,16, False, True, True,0.9925
+LUV,5,8,3, ALL,32,16, False, False, True,0.99
+LUV,5,8,3, ALL,32,32, True, True, True,0.9975
+LUV,5,8,3, ALL,32,32, True, False, True,0.9975
+LUV,5,8,3, ALL,32,32, False, True, True,0.9975
+LUV,5,8,3, ALL,32,32, False, False, True,0.98
+LUV,5,8,4,0,16,16, True, True, True,0.9925
+LUV,5,8,4,0,16,16, True, False, True,0.9875
+LUV,5,8,4,0,16,16, False, True, True,0.9875
+LUV,5,8,4,0,16,16, False, False, True,0.9875
+LUV,5,8,4,0,16,32, True, True, True,0.995
+LUV,5,8,4,0,16,32, True, False, True,0.9775
+LUV,5,8,4,0,16,32, False, True, True,0.9925
+LUV,5,8,4,0,16,32, False, False, True,0.96
+LUV,5,8,4,0,32,16, True, True, True,0.995
+LUV,5,8,4,0,32,16, True, False, True,0.9975
+LUV,5,8,4,0,32,16, False, True, True,0.9975
+LUV,5,8,4,0,32,16, False, False, True,0.98
+LUV,5,8,4,0,32,32, True, True, True,0.9875
+LUV,5,8,4,0,32,32, True, False, True,0.9875
+LUV,5,8,4,0,32,32, False, True, True,0.99
+LUV,5,8,4,0,32,32, False, False, True,0.98
+LUV,5,8,4,1,16,16, True, True, True,0.9925
+LUV,5,8,4,1,16,16, True, False, True,0.985
+LUV,5,8,4,1,16,16, False, True, True,0.975
+LUV,5,8,4,1,16,16, False, False, True,0.91
+LUV,5,8,4,1,16,32, True, True, True,0.9925
+LUV,5,8,4,1,16,32, True, False, True,0.9825
+LUV,5,8,4,1,16,32, False, True, True,0.995
+LUV,5,8,4,1,16,32, False, False, True,0.9275
+LUV,5,8,4,1,32,16, True, True, True,0.9875
+LUV,5,8,4,1,32,16, True, False, True,0.995
+LUV,5,8,4,1,32,16, False, True, True,0.9825
+LUV,5,8,4,1,32,16, False, False, True,0.95
+LUV,5,8,4,1,32,32, True, True, True,0.9925
+LUV,5,8,4,1,32,32, True, False, True,0.995
+LUV,5,8,4,1,32,32, False, True, True,0.995
+LUV,5,8,4,1,32,32, False, False, True,0.93
+LUV,5,8,4,2,16,16, True, True, True,0.9875
+LUV,5,8,4,2,16,16, True, False, True,0.985
+LUV,5,8,4,2,16,16, False, True, True,0.9875
+LUV,5,8,4,2,16,16, False, False, True,0.915
+LUV,5,8,4,2,16,32, True, True, True,0.995
+LUV,5,8,4,2,16,32, True, False, True,0.9875
+LUV,5,8,4,2,16,32, False, True, True,0.99
+LUV,5,8,4,2,16,32, False, False, True,0.925
+LUV,5,8,4,2,32,16, True, True, True,0.9775
+LUV,5,8,4,2,32,16, True, False, True,0.97
+LUV,5,8,4,2,32,16, False, True, True,0.9825
+LUV,5,8,4,2,32,16, False, False, True,0.9075
+LUV,5,8,4,2,32,32, True, True, True,0.99
+LUV,5,8,4,2,32,32, True, False, True,0.985
+LUV,5,8,4,2,32,32, False, True, True,0.985
+LUV,5,8,4,2,32,32, False, False, True,0.9325
+LUV,5,8,4, ALL,16,16, True, True, True,0.9975
+LUV,5,8,4, ALL,16,16, True, False, True,0.9925
+LUV,5,8,4, ALL,16,16, False, True, True,0.9975
+LUV,5,8,4, ALL,16,16, False, False, True,0.98
+LUV,5,8,4, ALL,16,32, True, True, True,0.9975
+LUV,5,8,4, ALL,16,32, True, False, True,0.9975
+LUV,5,8,4, ALL,16,32, False, True, True,0.995
+LUV,5,8,4, ALL,16,32, False, False, True,0.9825
+LUV,5,8,4, ALL,32,16, True, True, True,0.99
+LUV,5,8,4, ALL,32,16, True, False, True,0.9925
+LUV,5,8,4, ALL,32,16, False, True, True,0.99
+LUV,5,8,4, ALL,32,16, False, False, True,0.9925
+LUV,5,8,4, ALL,32,32, True, True, True,0.9975
+LUV,5,8,4, ALL,32,32, True, False, True,1
+LUV,5,8,4, ALL,32,32, False, True, True,0.9925
+LUV,5,8,4, ALL,32,32, False, False, True,0.98
+LUV,5,16,2,0,16,16, True, True, True,0.9975
+LUV,5,16,2,0,16,16, True, False, True,0.9925
+LUV,5,16,2,0,16,16, False, True, True,1
+LUV,5,16,2,0,16,16, False, False, True,0.955
+LUV,5,16,2,0,16,32, True, True, True,0.995
+LUV,5,16,2,0,16,32, True, False, True,0.99
+LUV,5,16,2,0,16,32, False, True, True,0.995
+LUV,5,16,2,0,16,32, False, False, True,0.98
+LUV,5,16,2,0,32,16, True, True, True,0.9875
+LUV,5,16,2,0,32,16, True, False, True,0.9825
+LUV,5,16,2,0,32,16, False, True, True,1
+LUV,5,16,2,0,32,16, False, False, True,0.96
+LUV,5,16,2,0,32,32, True, True, True,0.9975
+LUV,5,16,2,0,32,32, True, False, True,0.9875
+LUV,5,16,2,0,32,32, False, True, True,1
+LUV,5,16,2,0,32,32, False, False, True,0.9525
+LUV,5,16,2,1,16,16, True, True, True,0.9975
+LUV,5,16,2,1,16,16, True, False, True,0.9825
+LUV,5,16,2,1,16,16, False, True, True,0.995
+LUV,5,16,2,1,16,16, False, False, True,0.8875
+LUV,5,16,2,1,16,32, True, True, True,1
+LUV,5,16,2,1,16,32, True, False, True,0.9775
+LUV,5,16,2,1,16,32, False, True, True,1
+LUV,5,16,2,1,16,32, False, False, True,0.9375
+LUV,5,16,2,1,32,16, True, True, True,0.99
+LUV,5,16,2,1,32,16, True, False, True,0.99
+LUV,5,16,2,1,32,16, False, True, True,1
+LUV,5,16,2,1,32,16, False, False, True,0.92
+LUV,5,16,2,1,32,32, True, True, True,0.995
+LUV,5,16,2,1,32,32, True, False, True,0.97
+LUV,5,16,2,1,32,32, False, True, True,1
+LUV,5,16,2,1,32,32, False, False, True,0.885
+LUV,5,16,2,2,16,16, True, True, True,0.99
+LUV,5,16,2,2,16,16, True, False, True,0.9875
+LUV,5,16,2,2,16,16, False, True, True,0.9975
+LUV,5,16,2,2,16,16, False, False, True,0.9375
+LUV,5,16,2,2,16,32, True, True, True,1
+LUV,5,16,2,2,16,32, True, False, True,0.9825
+LUV,5,16,2,2,16,32, False, True, True,1
+LUV,5,16,2,2,16,32, False, False, True,0.935
+LUV,5,16,2,2,32,16, True, True, True,0.9825
+LUV,5,16,2,2,32,16, True, False, True,0.9775
+LUV,5,16,2,2,32,16, False, True, True,1
+LUV,5,16,2,2,32,16, False, False, True,0.9225
+LUV,5,16,2,2,32,32, True, True, True,0.9925
+LUV,5,16,2,2,32,32, True, False, True,0.9825
+LUV,5,16,2,2,32,32, False, True, True,1
+LUV,5,16,2,2,32,32, False, False, True,0.915
+LUV,5,16,2, ALL,16,16, True, True, True,0.9975
+LUV,5,16,2, ALL,16,16, True, False, True,0.995
+LUV,5,16,2, ALL,16,16, False, True, True,1
+LUV,5,16,2, ALL,16,16, False, False, True,0.98
+LUV,5,16,2, ALL,16,32, True, True, True,1
+LUV,5,16,2, ALL,16,32, True, False, True,0.9925
+LUV,5,16,2, ALL,16,32, False, True, True,0.9975
+LUV,5,16,2, ALL,16,32, False, False, True,0.9775
+LUV,5,16,2, ALL,32,16, True, True, True,0.99
+LUV,5,16,2, ALL,32,16, True, False, True,0.9825
+LUV,5,16,2, ALL,32,16, False, True, True,1
+LUV,5,16,2, ALL,32,16, False, False, True,0.965
+LUV,5,16,2, ALL,32,32, True, True, True,0.995
+LUV,5,16,2, ALL,32,32, True, False, True,0.99
+LUV,5,16,2, ALL,32,32, False, True, True,0.995
+LUV,5,16,2, ALL,32,32, False, False, True,0.99
+LUV,5,16,3,0,16,16, True, True, True,0.9975
+LUV,5,16,3,0,16,16, True, False, True,0.985
+LUV,5,16,3,0,16,16, False, True, True,0.9975
+LUV,5,16,3,0,16,16, False, False, True,0.9675
+LUV,5,16,3,0,16,32, True, True, True,1
+LUV,5,16,3,0,16,32, True, False, True,0.99
+LUV,5,16,3,0,16,32, False, True, True,1
+LUV,5,16,3,0,16,32, False, False, True,0.965
+LUV,5,16,3,0,32,16, True, True, True,0.99
+LUV,5,16,3,0,32,16, True, False, True,0.9875
+LUV,5,16,3,0,32,16, False, True, True,0.995
+LUV,5,16,3,0,32,16, False, False, True,0.975
+LUV,5,16,3,0,32,32, True, True, True,0.98
+LUV,5,16,3,0,32,32, True, False, True,0.975
+LUV,5,16,3,0,32,32, False, True, True,1
+LUV,5,16,3,0,32,32, False, False, True,0.9525
+LUV,5,16,3,1,16,16, True, True, True,0.9925
+LUV,5,16,3,1,16,16, True, False, True,0.985
+LUV,5,16,3,1,16,16, False, True, True,0.9975
+LUV,5,16,3,1,16,16, False, False, True,0.91
+LUV,5,16,3,1,16,32, True, True, True,1
+LUV,5,16,3,1,16,32, True, False, True,0.985
+LUV,5,16,3,1,16,32, False, True, True,1
+LUV,5,16,3,1,16,32, False, False, True,0.9275
+LUV,5,16,3,1,32,16, True, True, True,0.985
+LUV,5,16,3,1,32,16, True, False, True,0.985
+LUV,5,16,3,1,32,16, False, True, True,0.9975
+LUV,5,16,3,1,32,16, False, False, True,0.9275
+LUV,5,16,3,1,32,32, True, True, True,0.995
+LUV,5,16,3,1,32,32, True, False, True,0.97
+LUV,5,16,3,1,32,32, False, True, True,1
+LUV,5,16,3,1,32,32, False, False, True,0.9475
+LUV,5,16,3,2,16,16, True, True, True,0.9975
+LUV,5,16,3,2,16,16, True, False, True,0.965
+LUV,5,16,3,2,16,16, False, True, True,1
+LUV,5,16,3,2,16,16, False, False, True,0.9125
+LUV,5,16,3,2,16,32, True, True, True,0.99
+LUV,5,16,3,2,16,32, True, False, True,0.985
+LUV,5,16,3,2,16,32, False, True, True,1
+LUV,5,16,3,2,16,32, False, False, True,0.925
+LUV,5,16,3,2,32,16, True, True, True,0.9875
+LUV,5,16,3,2,32,16, True, False, True,0.9725
+LUV,5,16,3,2,32,16, False, True, True,0.9975
+LUV,5,16,3,2,32,16, False, False, True,0.8925
+LUV,5,16,3,2,32,32, True, True, True,0.99
+LUV,5,16,3,2,32,32, True, False, True,0.965
+LUV,5,16,3,2,32,32, False, True, True,0.9975
+LUV,5,16,3,2,32,32, False, False, True,0.895
+LUV,5,16,3, ALL,16,16, True, True, True,0.995
+LUV,5,16,3, ALL,16,16, True, False, True,0.995
+LUV,5,16,3, ALL,16,16, False, True, True,0.9975
+LUV,5,16,3, ALL,16,16, False, False, True,0.97
+LUV,5,16,3, ALL,16,32, True, True, True,0.995
+LUV,5,16,3, ALL,16,32, True, False, True,0.99
+LUV,5,16,3, ALL,16,32, False, True, True,1
+LUV,5,16,3, ALL,16,32, False, False, True,0.97
+LUV,5,16,3, ALL,32,16, True, True, True,0.9975
+LUV,5,16,3, ALL,32,16, True, False, True,0.995
+LUV,5,16,3, ALL,32,16, False, True, True,0.995
+LUV,5,16,3, ALL,32,16, False, False, True,0.98
+LUV,5,16,3, ALL,32,32, True, True, True,0.995
+LUV,5,16,3, ALL,32,32, True, False, True,0.995
+LUV,5,16,3, ALL,32,32, False, True, True,1
+LUV,5,16,3, ALL,32,32, False, False, True,0.975
+LUV,5,16,4,0,16,16, True, True, True,0.9975
+LUV,5,16,4,0,16,16, True, False, True,0.975
+LUV,5,16,4,0,16,16, False, True, True,0.995
+LUV,5,16,4,0,16,16, False, False, True,0.935
+LUV,5,16,4,0,16,32, True, True, True,1
+LUV,5,16,4,0,16,32, True, False, True,0.985
+LUV,5,16,4,0,16,32, False, True, True,0.9975
+LUV,5,16,4,0,16,32, False, False, True,0.96
+LUV,5,16,4,0,32,16, True, True, True,0.9875
+LUV,5,16,4,0,32,16, True, False, True,0.98
+LUV,5,16,4,0,32,16, False, True, True,0.9975
+LUV,5,16,4,0,32,16, False, False, True,0.965
+LUV,5,16,4,0,32,32, True, True, True,0.995
+LUV,5,16,4,0,32,32, True, False, True,0.975
+LUV,5,16,4,0,32,32, False, True, True,1
+LUV,5,16,4,0,32,32, False, False, True,0.9475
+LUV,5,16,4,1,16,16, True, True, True,0.99
+LUV,5,16,4,1,16,16, True, False, True,0.975
+LUV,5,16,4,1,16,16, False, True, True,1
+LUV,5,16,4,1,16,16, False, False, True,0.8975
+LUV,5,16,4,1,16,32, True, True, True,1
+LUV,5,16,4,1,16,32, True, False, True,0.9875
+LUV,5,16,4,1,16,32, False, True, True,1
+LUV,5,16,4,1,16,32, False, False, True,0.9275
+LUV,5,16,4,1,32,16, True, True, True,0.9875
+LUV,5,16,4,1,32,16, True, False, True,0.975
+LUV,5,16,4,1,32,16, False, True, True,1
+LUV,5,16,4,1,32,16, False, False, True,0.905
+LUV,5,16,4,1,32,32, True, True, True,0.9925
+LUV,5,16,4,1,32,32, True, False, True,0.975
+LUV,5,16,4,1,32,32, False, True, True,1
+LUV,5,16,4,1,32,32, False, False, True,0.9225
+LUV,5,16,4,2,16,16, True, True, True,0.9975
+LUV,5,16,4,2,16,16, True, False, True,0.9625
+LUV,5,16,4,2,16,16, False, True, True,0.9975
+LUV,5,16,4,2,16,16, False, False, True,0.8825
+LUV,5,16,4,2,16,32, True, True, True,0.9975
+LUV,5,16,4,2,16,32, True, False, True,0.9675
+LUV,5,16,4,2,16,32, False, True, True,0.9975
+LUV,5,16,4,2,16,32, False, False, True,0.8875
+LUV,5,16,4,2,32,16, True, True, True,0.99
+LUV,5,16,4,2,32,16, True, False, True,0.9775
+LUV,5,16,4,2,32,16, False, True, True,0.995
+LUV,5,16,4,2,32,16, False, False, True,0.905
+LUV,5,16,4,2,32,32, True, True, True,0.9925
+LUV,5,16,4,2,32,32, True, False, True,0.9575
+LUV,5,16,4,2,32,32, False, True, True,1
+LUV,5,16,4,2,32,32, False, False, True,0.9025
+LUV,5,16,4, ALL,16,16, True, True, True,1
+LUV,5,16,4, ALL,16,16, True, False, True,0.985
+LUV,5,16,4, ALL,16,16, False, True, True,0.995
+LUV,5,16,4, ALL,16,16, False, False, True,0.98
+LUV,5,16,4, ALL,16,32, True, True, True,1
+LUV,5,16,4, ALL,16,32, True, False, True,0.9925
+LUV,5,16,4, ALL,16,32, False, True, True,1
+LUV,5,16,4, ALL,16,32, False, False, True,0.955
+LUV,5,16,4, ALL,32,16, True, True, True,0.99
+LUV,5,16,4, ALL,32,16, True, False, True,0.9825
+LUV,5,16,4, ALL,32,16, False, True, True,0.9975
+LUV,5,16,4, ALL,32,16, False, False, True,0.9775
+LUV,5,16,4, ALL,32,32, True, True, True,1
+LUV,5,16,4, ALL,32,32, True, False, True,0.9725
+LUV,5,16,4, ALL,32,32, False, True, True,1
+LUV,5,16,4, ALL,32,32, False, False, True,0.965

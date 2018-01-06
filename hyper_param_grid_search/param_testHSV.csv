@@ -1,0 +1,768 @@
+HSV,9,8,2,0,16,16, True, True, True,0.9875
+HSV,9,8,2,0,16,16, True, False, True,0.9725
+HSV,9,8,2,0,16,16, False, True, True,0.97
+HSV,9,8,2,0,16,16, False, False, True,0.93
+HSV,9,8,2,0,16,32, True, True, True,0.9975
+HSV,9,8,2,0,16,32, True, False, True,0.99
+HSV,9,8,2,0,16,32, False, True, True,0.9925
+HSV,9,8,2,0,16,32, False, False, True,0.96
+HSV,9,8,2,0,32,16, True, True, True,0.995
+HSV,9,8,2,0,32,16, True, False, True,0.9825
+HSV,9,8,2,0,32,16, False, True, True,0.9825
+HSV,9,8,2,0,32,16, False, False, True,0.945
+HSV,9,8,2,0,32,32, True, True, True,0.995
+HSV,9,8,2,0,32,32, True, False, True,0.9925
+HSV,9,8,2,0,32,32, False, True, True,0.975
+HSV,9,8,2,0,32,32, False, False, True,0.935
+HSV,9,8,2,1,16,16, True, True, True,0.99
+HSV,9,8,2,1,16,16, True, False, True,0.985
+HSV,9,8,2,1,16,16, False, True, True,0.9925
+HSV,9,8,2,1,16,16, False, False, True,0.9475
+HSV,9,8,2,1,16,32, True, True, True,0.9925
+HSV,9,8,2,1,16,32, True, False, True,0.9875
+HSV,9,8,2,1,16,32, False, True, True,0.9875
+HSV,9,8,2,1,16,32, False, False, True,0.9675
+HSV,9,8,2,1,32,16, True, True, True,0.99
+HSV,9,8,2,1,32,16, True, False, True,0.995
+HSV,9,8,2,1,32,16, False, True, True,0.9875
+HSV,9,8,2,1,32,16, False, False, True,0.955
+HSV,9,8,2,1,32,32, True, True, True,0.9925
+HSV,9,8,2,1,32,32, True, False, True,0.9875
+HSV,9,8,2,1,32,32, False, True, True,0.9875
+HSV,9,8,2,1,32,32, False, False, True,0.9475
+HSV,9,8,2,2,16,16, True, True, True,0.995
+HSV,9,8,2,2,16,16, True, False, True,0.9925
+HSV,9,8,2,2,16,16, False, True, True,0.9875
+HSV,9,8,2,2,16,16, False, False, True,0.98
+HSV,9,8,2,2,16,32, True, True, True,0.995
+HSV,9,8,2,2,16,32, True, False, True,0.9975
+HSV,9,8,2,2,16,32, False, True, True,0.9975
+HSV,9,8,2,2,16,32, False, False, True,0.9675
+HSV,9,8,2,2,32,16, True, True, True,0.9925
+HSV,9,8,2,2,32,16, True, False, True,0.9925
+HSV,9,8,2,2,32,16, False, True, True,0.9925
+HSV,9,8,2,2,32,16, False, False, True,0.9825
+HSV,9,8,2,2,32,32, True, True, True,0.9925
+HSV,9,8,2,2,32,32, True, False, True,0.9875
+HSV,9,8,2,2,32,32, False, True, True,0.9925
+HSV,9,8,2,2,32,32, False, False, True,0.9725
+HSV,9,8,2, ALL,16,16, True, True, True,0.995
+HSV,9,8,2, ALL,16,16, True, False, True,0.99
+HSV,9,8,2, ALL,16,16, False, True, True,0.985
+HSV,9,8,2, ALL,16,16, False, False, True,0.985
+HSV,9,8,2, ALL,16,32, True, True, True,0.9925
+HSV,9,8,2, ALL,16,32, True, False, True,0.9975
+HSV,9,8,2, ALL,16,32, False, True, True,0.995
+HSV,9,8,2, ALL,16,32, False, False, True,0.99
+HSV,9,8,2, ALL,32,16, True, True, True,0.9975
+HSV,9,8,2, ALL,32,16, True, False, True,0.9975
+HSV,9,8,2, ALL,32,16, False, True, True,0.9875
+HSV,9,8,2, ALL,32,16, False, False, True,0.9875
+HSV,9,8,2, ALL,32,32, True, True, True,0.9925
+HSV,9,8,2, ALL,32,32, True, False, True,0.9925
+HSV,9,8,2, ALL,32,32, False, True, True,0.99
+HSV,9,8,2, ALL,32,32, False, False, True,0.98
+HSV,9,8,3,0,16,16, True, True, True,0.985
+HSV,9,8,3,0,16,16, True, False, True,0.9775
+HSV,9,8,3,0,16,16, False, True, True,0.965
+HSV,9,8,3,0,16,16, False, False, True,0.9125
+HSV,9,8,3,0,16,32, True, True, True,0.995
+HSV,9,8,3,0,16,32, True, False, True,0.9775
+HSV,9,8,3,0,16,32, False, True, True,0.99
+HSV,9,8,3,0,16,32, False, False, True,0.92
+HSV,9,8,3,0,32,16, True, True, True,0.9925
+HSV,9,8,3,0,32,16, True, False, True,0.9925
+HSV,9,8,3,0,32,16, False, True, True,0.9675
+HSV,9,8,3,0,32,16, False, False, True,0.8825
+HSV,9,8,3,0,32,32, True, True, True,0.99
+HSV,9,8,3,0,32,32, True, False, True,0.975
+HSV,9,8,3,0,32,32, False, True, True,0.98
+HSV,9,8,3,0,32,32, False, False, True,0.93
+HSV,9,8,3,1,16,16, True, True, True,0.9825
+HSV,9,8,3,1,16,16, True, False, True,0.98
+HSV,9,8,3,1,16,16, False, True, True,0.9725
+HSV,9,8,3,1,16,16, False, False, True,0.9575
+HSV,9,8,3,1,16,32, True, True, True,0.9925
+HSV,9,8,3,1,16,32, True, False, True,0.9925
+HSV,9,8,3,1,16,32, False, True, True,0.985
+HSV,9,8,3,1,16,32, False, False, True,0.935
+HSV,9,8,3,1,32,16, True, True, True,0.9925
+HSV,9,8,3,1,32,16, True, False, True,0.9875
+HSV,9,8,3,1,32,16, False, True, True,0.99
+HSV,9,8,3,1,32,16, False, False, True,0.96
+HSV,9,8,3,1,32,32, True, True, True,0.995
+HSV,9,8,3,1,32,32, True, False, True,0.99
+HSV,9,8,3,1,32,32, False, True, True,0.9975
+HSV,9,8,3,1,32,32, False, False, True,0.9325
+HSV,9,8,3,2,16,16, True, True, True,1
+HSV,9,8,3,2,16,16, True, False, True,0.995
+HSV,9,8,3,2,16,16, False, True, True,0.98
+HSV,9,8,3,2,16,16, False, False, True,0.9725
+HSV,9,8,3,2,16,32, True, True, True,0.99
+HSV,9,8,3,2,16,32, True, False, True,0.985
+HSV,9,8,3,2,16,32, False, True, True,1
+HSV,9,8,3,2,16,32, False, False, True,0.975
+HSV,9,8,3,2,32,16, True, True, True,0.9925
+HSV,9,8,3,2,32,16, True, False, True,0.9925
+HSV,9,8,3,2,32,16, False, True, True,0.9925
+HSV,9,8,3,2,32,16, False, False, True,0.975
+HSV,9,8,3,2,32,32, True, True, True,0.9875
+HSV,9,8,3,2,32,32, True, False, True,0.995
+HSV,9,8,3,2,32,32, False, True, True,0.9925
+HSV,9,8,3,2,32,32, False, False, True,0.96
+HSV,9,8,3, ALL,16,16, True, True, True,0.995
+HSV,9,8,3, ALL,16,16, True, False, True,0.9925
+HSV,9,8,3, ALL,16,16, False, True, True,0.9875
+HSV,9,8,3, ALL,16,16, False, False, True,0.9875
+HSV,9,8,3, ALL,16,32, True, True, True,0.9975
+HSV,9,8,3, ALL,16,32, True, False, True,0.9925
+HSV,9,8,3, ALL,16,32, False, True, True,0.9925
+HSV,9,8,3, ALL,16,32, False, False, True,0.98
+HSV,9,8,3, ALL,32,16, True, True, True,0.995
+HSV,9,8,3, ALL,32,16, True, False, True,0.9975
+HSV,9,8,3, ALL,32,16, False, True, True,0.9925
+HSV,9,8,3, ALL,32,16, False, False, True,0.985
+HSV,9,8,3, ALL,32,32, True, True, True,0.9925
+HSV,9,8,3, ALL,32,32, True, False, True,0.9875
+HSV,9,8,3, ALL,32,32, False, True, True,0.99
+HSV,9,8,3, ALL,32,32, False, False, True,0.9775
+HSV,9,8,4,0,16,16, True, True, True,0.98
+HSV,9,8,4,0,16,16, True, False, True,0.975
+HSV,9,8,4,0,16,16, False, True, True,0.95
+HSV,9,8,4,0,16,16, False, False, True,0.9125
+HSV,9,8,4,0,16,32, True, True, True,0.9825
+HSV,9,8,4,0,16,32, True, False, True,0.9725
+HSV,9,8,4,0,16,32, False, True, True,0.9775
+HSV,9,8,4,0,16,32, False, False, True,0.9
+HSV,9,8,4,0,32,16, True, True, True,0.9925
+HSV,9,8,4,0,32,16, True, False, True,0.975
+HSV,9,8,4,0,32,16, False, True, True,0.9675
+HSV,9,8,4,0,32,16, False, False, True,0.9025
+HSV,9,8,4,0,32,32, True, True, True,0.99
+HSV,9,8,4,0,32,32, True, False, True,0.98
+HSV,9,8,4,0,32,32, False, True, True,0.97
+HSV,9,8,4,0,32,32, False, False, True,0.885
+HSV,9,8,4,1,16,16, True, True, True,0.995
+HSV,9,8,4,1,16,16, True, False, True,0.9875
+HSV,9,8,4,1,16,16, False, True, True,0.975
+HSV,9,8,4,1,16,16, False, False, True,0.9475
+HSV,9,8,4,1,16,32, True, True, True,0.99
+HSV,9,8,4,1,16,32, True, False, True,0.9825
+HSV,9,8,4,1,16,32, False, True, True,0.99
+HSV,9,8,4,1,16,32, False, False, True,0.9575
+HSV,9,8,4,1,32,16, True, True, True,0.9875
+HSV,9,8,4,1,32,16, True, False, True,0.9825
+HSV,9,8,4,1,32,16, False, True, True,0.9775
+HSV,9,8,4,1,32,16, False, False, True,0.9475
+HSV,9,8,4,1,32,32, True, True, True,0.9875
+HSV,9,8,4,1,32,32, True, False, True,0.9825
+HSV,9,8,4,1,32,32, False, True, True,0.98
+HSV,9,8,4,1,32,32, False, False, True,0.9575
+HSV,9,8,4,2,16,16, True, True, True,0.99
+HSV,9,8,4,2,16,16, True, False, True,0.985
+HSV,9,8,4,2,16,16, False, True, True,0.9875
+HSV,9,8,4,2,16,16, False, False, True,0.97
+HSV,9,8,4,2,16,32, True, True, True,0.9825
+HSV,9,8,4,2,16,32, True, False, True,0.9925
+HSV,9,8,4,2,16,32, False, True, True,0.99
+HSV,9,8,4,2,16,32, False, False, True,0.97
+HSV,9,8,4,2,32,16, True, True, True,0.995
+HSV,9,8,4,2,32,16, True, False, True,0.995
+HSV,9,8,4,2,32,16, False, True, True,0.98
+HSV,9,8,4,2,32,16, False, False, True,0.97
+HSV,9,8,4,2,32,32, True, True, True,0.99
+HSV,9,8,4,2,32,32, True, False, True,0.995
+HSV,9,8,4,2,32,32, False, True, True,0.995
+HSV,9,8,4,2,32,32, False, False, True,0.9675
+HSV,9,8,4, ALL,16,16, True, True, True,0.9875
+HSV,9,8,4, ALL,16,16, True, False, True,0.985
+HSV,9,8,4, ALL,16,16, False, True, True,0.9875
+HSV,9,8,4, ALL,16,16, False, False, True,0.9675
+HSV,9,8,4, ALL,16,32, True, True, True,0.9875
+HSV,9,8,4, ALL,16,32, True, False, True,0.99
+HSV,9,8,4, ALL,16,32, False, True, True,0.985
+HSV,9,8,4, ALL,16,32, False, False, True,0.985
+HSV,9,8,4, ALL,32,16, True, True, True,0.99
+HSV,9,8,4, ALL,32,16, True, False, True,0.99
+HSV,9,8,4, ALL,32,16, False, True, True,0.9925
+HSV,9,8,4, ALL,32,16, False, False, True,0.9775
+HSV,9,8,4, ALL,32,32, True, True, True,0.9925
+HSV,9,8,4, ALL,32,32, True, False, True,0.9975
+HSV,9,8,4, ALL,32,32, False, True, True,0.9825
+HSV,9,8,4, ALL,32,32, False, False, True,0.985
+HSV,9,16,2,0,16,16, True, True, True,0.9975
+HSV,9,16,2,0,16,16, True, False, True,0.9775
+HSV,9,16,2,0,16,16, False, True, True,0.995
+HSV,9,16,2,0,16,16, False, False, True,0.905
+HSV,9,16,2,0,16,32, True, True, True,1
+HSV,9,16,2,0,16,32, True, False, True,0.98
+HSV,9,16,2,0,16,32, False, True, True,0.995
+HSV,9,16,2,0,16,32, False, False, True,0.87
+HSV,9,16,2,0,32,16, True, True, True,0.9925
+HSV,9,16,2,0,32,16, True, False, True,0.9975
+HSV,9,16,2,0,32,16, False, True, True,0.995
+HSV,9,16,2,0,32,16, False, False, True,0.8875
+HSV,9,16,2,0,32,32, True, True, True,0.9975
+HSV,9,16,2,0,32,32, True, False, True,0.9725
+HSV,9,16,2,0,32,32, False, True, True,0.9975
+HSV,9,16,2,0,32,32, False, False, True,0.89
+HSV,9,16,2,1,16,16, True, True, True,0.99
+HSV,9,16,2,1,16,16, True, False, True,0.98
+HSV,9,16,2,1,16,16, False, True, True,0.9975
+HSV,9,16,2,1,16,16, False, False, True,0.925
+HSV,9,16,2,1,16,32, True, True, True,0.995
+HSV,9,16,2,1,16,32, True, False, True,0.9775
+HSV,9,16,2,1,16,32, False, True, True,1
+HSV,9,16,2,1,16,32, False, False, True,0.935
+HSV,9,16,2,1,32,16, True, True, True,0.985
+HSV,9,16,2,1,32,16, True, False, True,0.99
+HSV,9,16,2,1,32,16, False, True, True,1
+HSV,9,16,2,1,32,16, False, False, True,0.9375
+HSV,9,16,2,1,32,32, True, True, True,0.9975
+HSV,9,16,2,1,32,32, True, False, True,0.9775
+HSV,9,16,2,1,32,32, False, True, True,1
+HSV,9,16,2,1,32,32, False, False, True,0.93
+HSV,9,16,2,2,16,16, True, True, True,0.9975
+HSV,9,16,2,2,16,16, True, False, True,0.9875
+HSV,9,16,2,2,16,16, False, True, True,0.995
+HSV,9,16,2,2,16,16, False, False, True,0.9625
+HSV,9,16,2,2,16,32, True, True, True,1
+HSV,9,16,2,2,16,32, True, False, True,0.995
+HSV,9,16,2,2,16,32, False, True, True,1
+HSV,9,16,2,2,16,32, False, False, True,0.96
+HSV,9,16,2,2,32,16, True, True, True,1
+HSV,9,16,2,2,32,16, True, False, True,0.9875
+HSV,9,16,2,2,32,16, False, True, True,0.9975
+HSV,9,16,2,2,32,16, False, False, True,0.9675
+HSV,9,16,2,2,32,32, True, True, True,1
+HSV,9,16,2,2,32,32, True, False, True,0.9825
+HSV,9,16,2,2,32,32, False, True, True,1
+HSV,9,16,2,2,32,32, False, False, True,0.965
+HSV,9,16,2, ALL,16,16, True, True, True,0.9975
+HSV,9,16,2, ALL,16,16, True, False, True,0.985
+HSV,9,16,2, ALL,16,16, False, True, True,0.9975
+HSV,9,16,2, ALL,16,16, False, False, True,0.9775
+HSV,9,16,2, ALL,16,32, True, True, True,0.9975
+HSV,9,16,2, ALL,16,32, True, False, True,0.98
+HSV,9,16,2, ALL,16,32, False, True, True,1
+HSV,9,16,2, ALL,16,32, False, False, True,0.98
+HSV,9,16,2, ALL,32,16, True, True, True,0.995
+HSV,9,16,2, ALL,32,16, True, False, True,0.9925
+HSV,9,16,2, ALL,32,16, False, True, True,0.9925
+HSV,9,16,2, ALL,32,16, False, False, True,0.9775
+HSV,9,16,2, ALL,32,32, True, True, True,0.9975
+HSV,9,16,2, ALL,32,32, True, False, True,0.9925
+HSV,9,16,2, ALL,32,32, False, True, True,1
+HSV,9,16,2, ALL,32,32, False, False, True,0.9825
+HSV,9,16,3,0,16,16, True, True, True,0.9925
+HSV,9,16,3,0,16,16, True, False, True,0.97
+HSV,9,16,3,0,16,16, False, True, True,1
+HSV,9,16,3,0,16,16, False, False, True,0.88
+HSV,9,16,3,0,16,32, True, True, True,1
+HSV,9,16,3,0,16,32, True, False, True,0.975
+HSV,9,16,3,0,16,32, False, True, True,0.9975
+HSV,9,16,3,0,16,32, False, False, True,0.85
+HSV,9,16,3,0,32,16, True, True, True,0.985
+HSV,9,16,3,0,32,16, True, False, True,0.9775
+HSV,9,16,3,0,32,16, False, True, True,0.99
+HSV,9,16,3,0,32,16, False, False, True,0.905
+HSV,9,16,3,0,32,32, True, True, True,1
+HSV,9,16,3,0,32,32, True, False, True,0.985
+HSV,9,16,3,0,32,32, False, True, True,0.9975
+HSV,9,16,3,0,32,32, False, False, True,0.9125
+HSV,9,16,3,1,16,16, True, True, True,0.9925
+HSV,9,16,3,1,16,16, True, False, True,0.9725
+HSV,9,16,3,1,16,16, False, True, True,0.995
+HSV,9,16,3,1,16,16, False, False, True,0.935
+HSV,9,16,3,1,16,32, True, True, True,0.9975
+HSV,9,16,3,1,16,32, True, False, True,0.98
+HSV,9,16,3,1,16,32, False, True, True,1
+HSV,9,16,3,1,16,32, False, False, True,0.935
+HSV,9,16,3,1,32,16, True, True, True,0.985
+HSV,9,16,3,1,32,16, True, False, True,0.98
+HSV,9,16,3,1,32,16, False, True, True,0.9975
+HSV,9,16,3,1,32,16, False, False, True,0.935
+HSV,9,16,3,1,32,32, True, True, True,0.9925
+HSV,9,16,3,1,32,32, True, False, True,0.9825
+HSV,9,16,3,1,32,32, False, True, True,1
+HSV,9,16,3,1,32,32, False, False, True,0.9225
+HSV,9,16,3,2,16,16, True, True, True,0.9975
+HSV,9,16,3,2,16,16, True, False, True,0.99
+HSV,9,16,3,2,16,16, False, True, True,0.9975
+HSV,9,16,3,2,16,16, False, False, True,0.9575
+HSV,9,16,3,2,16,32, True, True, True,0.9975
+HSV,9,16,3,2,16,32, True, False, True,0.9875
+HSV,9,16,3,2,16,32, False, True, True,0.9975
+HSV,9,16,3,2,16,32, False, False, True,0.9475
+HSV,9,16,3,2,32,16, True, True, True,0.995
+HSV,9,16,3,2,32,16, True, False, True,0.97
+HSV,9,16,3,2,32,16, False, True, True,0.9975
+HSV,9,16,3,2,32,16, False, False, True,0.9775
+HSV,9,16,3,2,32,32, True, True, True,0.995
+HSV,9,16,3,2,32,32, True, False, True,0.98
+HSV,9,16,3,2,32,32, False, True, True,0.9975
+HSV,9,16,3,2,32,32, False, False, True,0.96
+HSV,9,16,3, ALL,16,16, True, True, True,0.9925
+HSV,9,16,3, ALL,16,16, True, False, True,0.995
+HSV,9,16,3, ALL,16,16, False, True, True,0.995
+HSV,9,16,3, ALL,16,16, False, False, True,0.9775
+HSV,9,16,3, ALL,16,32, True, True, True,0.9975
+HSV,9,16,3, ALL,16,32, True, False, True,0.985
+HSV,9,16,3, ALL,16,32, False, True, True,0.9975
+HSV,9,16,3, ALL,16,32, False, False, True,0.98
+HSV,9,16,3, ALL,32,16, True, True, True,0.9875
+HSV,9,16,3, ALL,32,16, True, False, True,0.9975
+HSV,9,16,3, ALL,32,16, False, True, True,0.99
+HSV,9,16,3, ALL,32,16, False, False, True,0.9775
+HSV,9,16,3, ALL,32,32, True, True, True,0.9975
+HSV,9,16,3, ALL,32,32, True, False, True,0.9975
+HSV,9,16,3, ALL,32,32, False, True, True,1
+HSV,9,16,3, ALL,32,32, False, False, True,0.97
+HSV,9,16,4,0,16,16, True, True, True,0.995
+HSV,9,16,4,0,16,16, True, False, True,0.975
+HSV,9,16,4,0,16,16, False, True, True,1
+HSV,9,16,4,0,16,16, False, False, True,0.8775
+HSV,9,16,4,0,16,32, True, True, True,1
+HSV,9,16,4,0,16,32, True, False, True,0.975
+HSV,9,16,4,0,16,32, False, True, True,1
+HSV,9,16,4,0,16,32, False, False, True,0.9025
+HSV,9,16,4,0,32,16, True, True, True,0.9975
+HSV,9,16,4,0,32,16, True, False, True,0.9725
+HSV,9,16,4,0,32,16, False, True, True,0.9975
+HSV,9,16,4,0,32,16, False, False, True,0.89
+HSV,9,16,4,0,32,32, True, True, True,0.9975
+HSV,9,16,4,0,32,32, True, False, True,0.9825
+HSV,9,16,4,0,32,32, False, True, True,1
+HSV,9,16,4,0,32,32, False, False, True,0.8775
+HSV,9,16,4,1,16,16, True, True, True,0.995
+HSV,9,16,4,1,16,16, True, False, True,0.9775
+HSV,9,16,4,1,16,16, False, True, True,1
+HSV,9,16,4,1,16,16, False, False, True,0.93
+HSV,9,16,4,1,16,32, True, True, True,1
+HSV,9,16,4,1,16,32, True, False, True,0.965
+HSV,9,16,4,1,16,32, False, True, True,1
+HSV,9,16,4,1,16,32, False, False, True,0.9525
+HSV,9,16,4,1,32,16, True, True, True,0.99
+HSV,9,16,4,1,32,16, True, False, True,0.98
+HSV,9,16,4,1,32,16, False, True, True,0.9975
+HSV,9,16,4,1,32,16, False, False, True,0.9275
+HSV,9,16,4,1,32,32, True, True, True,1
+HSV,9,16,4,1,32,32, True, False, True,0.9675
+HSV,9,16,4,1,32,32, False, True, True,1
+HSV,9,16,4,1,32,32, False, False, True,0.9125
+HSV,9,16,4,2,16,16, True, True, True,1
+HSV,9,16,4,2,16,16, True, False, True,0.9825
+HSV,9,16,4,2,16,16, False, True, True,0.995
+HSV,9,16,4,2,16,16, False, False, True,0.945
+HSV,9,16,4,2,16,32, True, True, True,0.9975
+HSV,9,16,4,2,16,32, True, False, True,0.9725
+HSV,9,16,4,2,16,32, False, True, True,0.9975
+HSV,9,16,4,2,16,32, False, False, True,0.9375
+HSV,9,16,4,2,32,16, True, True, True,0.99
+HSV,9,16,4,2,32,16, True, False, True,0.9825
+HSV,9,16,4,2,32,16, False, True, True,0.9975
+HSV,9,16,4,2,32,16, False, False, True,0.945
+HSV,9,16,4,2,32,32, True, True, True,0.9975
+HSV,9,16,4,2,32,32, True, False, True,0.9925
+HSV,9,16,4,2,32,32, False, True, True,1
+HSV,9,16,4,2,32,32, False, False, True,0.95
+HSV,9,16,4, ALL,16,16, True, True, True,0.9925
+HSV,9,16,4, ALL,16,16, True, False, True,0.9875
+HSV,9,16,4, ALL,16,16, False, True, True,1
+HSV,9,16,4, ALL,16,16, False, False, True,0.965
+HSV,9,16,4, ALL,16,32, True, True, True,0.9975
+HSV,9,16,4, ALL,16,32, True, False, True,0.99
+HSV,9,16,4, ALL,16,32, False, True, True,0.9975
+HSV,9,16,4, ALL,16,32, False, False, True,0.9775
+HSV,9,16,4, ALL,32,16, True, True, True,0.9975
+HSV,9,16,4, ALL,32,16, True, False, True,0.99
+HSV,9,16,4, ALL,32,16, False, True, True,0.9975
+HSV,9,16,4, ALL,32,16, False, False, True,0.9625
+HSV,9,16,4, ALL,32,32, True, True, True,1
+HSV,9,16,4, ALL,32,32, True, False, True,0.9825
+HSV,9,16,4, ALL,32,32, False, True, True,1
+HSV,9,16,4, ALL,32,32, False, False, True,0.98
+HSV,5,8,2,0,16,16, True, True, True,0.995
+HSV,5,8,2,0,16,16, True, False, True,0.9775
+HSV,5,8,2,0,16,16, False, True, True,0.9675
+HSV,5,8,2,0,16,16, False, False, True,0.915
+HSV,5,8,2,0,16,32, True, True, True,0.99
+HSV,5,8,2,0,16,32, True, False, True,0.98
+HSV,5,8,2,0,16,32, False, True, True,0.985
+HSV,5,8,2,0,16,32, False, False, True,0.9475
+HSV,5,8,2,0,32,16, True, True, True,0.9775
+HSV,5,8,2,0,32,16, True, False, True,0.99
+HSV,5,8,2,0,32,16, False, True, True,0.99
+HSV,5,8,2,0,32,16, False, False, True,0.9525
+HSV,5,8,2,0,32,32, True, True, True,0.9975
+HSV,5,8,2,0,32,32, True, False, True,0.9775
+HSV,5,8,2,0,32,32, False, True, True,0.9925
+HSV,5,8,2,0,32,32, False, False, True,0.9375
+HSV,5,8,2,1,16,16, True, True, True,0.9925
+HSV,5,8,2,1,16,16, True, False, True,0.9775
+HSV,5,8,2,1,16,16, False, True, True,0.9975
+HSV,5,8,2,1,16,16, False, False, True,0.945
+HSV,5,8,2,1,16,32, True, True, True,0.9975
+HSV,5,8,2,1,16,32, True, False, True,0.975
+HSV,5,8,2,1,16,32, False, True, True,0.995
+HSV,5,8,2,1,16,32, False, False, True,0.95
+HSV,5,8,2,1,32,16, True, True, True,0.9925
+HSV,5,8,2,1,32,16, True, False, True,0.98
+HSV,5,8,2,1,32,16, False, True, True,0.9925
+HSV,5,8,2,1,32,16, False, False, True,0.9575
+HSV,5,8,2,1,32,32, True, True, True,0.9925
+HSV,5,8,2,1,32,32, True, False, True,0.98
+HSV,5,8,2,1,32,32, False, True, True,0.9975
+HSV,5,8,2,1,32,32, False, False, True,0.9525
+HSV,5,8,2,2,16,16, True, True, True,0.995
+HSV,5,8,2,2,16,16, True, False, True,0.99
+HSV,5,8,2,2,16,16, False, True, True,0.9925
+HSV,5,8,2,2,16,16, False, False, True,0.985
+HSV,5,8,2,2,16,32, True, True, True,0.9975
+HSV,5,8,2,2,16,32, True, False, True,0.9925
+HSV,5,8,2,2,16,32, False, True, True,0.9975
+HSV,5,8,2,2,16,32, False, False, True,0.9775
+HSV,5,8,2,2,32,16, True, True, True,0.9925
+HSV,5,8,2,2,32,16, True, False, True,0.9925
+HSV,5,8,2,2,32,16, False, True, True,0.9975
+HSV,5,8,2,2,32,16, False, False, True,0.9625
+HSV,5,8,2,2,32,32, True, True, True,0.9925
+HSV,5,8,2,2,32,32, True, False, True,0.995
+HSV,5,8,2,2,32,32, False, True, True,0.9925
+HSV,5,8,2,2,32,32, False, False, True,0.9725
+HSV,5,8,2, ALL,16,16, True, True, True,0.995
+HSV,5,8,2, ALL,16,16, True, False, True,0.9975
+HSV,5,8,2, ALL,16,16, False, True, True,0.995
+HSV,5,8,2, ALL,16,16, False, False, True,0.985
+HSV,5,8,2, ALL,16,32, True, True, True,0.9975
+HSV,5,8,2, ALL,16,32, True, False, True,1
+HSV,5,8,2, ALL,16,32, False, True, True,1
+HSV,5,8,2, ALL,16,32, False, False, True,0.9825
+HSV,5,8,2, ALL,32,16, True, True, True,0.995
+HSV,5,8,2, ALL,32,16, True, False, True,0.9975
+HSV,5,8,2, ALL,32,16, False, True, True,0.9975
+HSV,5,8,2, ALL,32,16, False, False, True,0.9775
+HSV,5,8,2, ALL,32,32, True, True, True,0.9875
+HSV,5,8,2, ALL,32,32, True, False, True,0.9925
+HSV,5,8,2, ALL,32,32, False, True, True,0.99
+HSV,5,8,2, ALL,32,32, False, False, True,0.985
+HSV,5,8,3,0,16,16, True, True, True,0.975
+HSV,5,8,3,0,16,16, True, False, True,0.9775
+HSV,5,8,3,0,16,16, False, True, True,0.9725
+HSV,5,8,3,0,16,16, False, False, True,0.9075
+HSV,5,8,3,0,16,32, True, True, True,0.995
+HSV,5,8,3,0,16,32, True, False, True,0.9775
+HSV,5,8,3,0,16,32, False, True, True,0.9875
+HSV,5,8,3,0,16,32, False, False, True,0.9275
+HSV,5,8,3,0,32,16, True, True, True,0.9875
+HSV,5,8,3,0,32,16, True, False, True,0.9875
+HSV,5,8,3,0,32,16, False, True, True,0.975
+HSV,5,8,3,0,32,16, False, False, True,0.9075
+HSV,5,8,3,0,32,32, True, True, True,0.9925
+HSV,5,8,3,0,32,32, True, False, True,0.9875
+HSV,5,8,3,0,32,32, False, True, True,0.9925
+HSV,5,8,3,0,32,32, False, False, True,0.9125
+HSV,5,8,3,1,16,16, True, True, True,0.99
+HSV,5,8,3,1,16,16, True, False, True,0.98
+HSV,5,8,3,1,16,16, False, True, True,0.9875
+HSV,5,8,3,1,16,16, False, False, True,0.94
+HSV,5,8,3,1,16,32, True, True, True,0.99
+HSV,5,8,3,1,16,32, True, False, True,0.98
+HSV,5,8,3,1,16,32, False, True, True,0.9975
+HSV,5,8,3,1,16,32, False, False, True,0.95
+HSV,5,8,3,1,32,16, True, True, True,0.99
+HSV,5,8,3,1,32,16, True, False, True,0.98
+HSV,5,8,3,1,32,16, False, True, True,0.99
+HSV,5,8,3,1,32,16, False, False, True,0.955
+HSV,5,8,3,1,32,32, True, True, True,0.9975
+HSV,5,8,3,1,32,32, True, False, True,0.9925
+HSV,5,8,3,1,32,32, False, True, True,0.995
+HSV,5,8,3,1,32,32, False, False, True,0.9475
+HSV,5,8,3,2,16,16, True, True, True,0.9925
+HSV,5,8,3,2,16,16, True, False, True,0.9925
+HSV,5,8,3,2,16,16, False, True, True,0.99
+HSV,5,8,3,2,16,16, False, False, True,0.9725
+HSV,5,8,3,2,16,32, True, True, True,0.995
+HSV,5,8,3,2,16,32, True, False, True,0.9975
+HSV,5,8,3,2,16,32, False, True, True,0.9975
+HSV,5,8,3,2,16,32, False, False, True,0.9675
+HSV,5,8,3,2,32,16, True, True, True,0.995
+HSV,5,8,3,2,32,16, True, False, True,0.9925
+HSV,5,8,3,2,32,16, False, True, True,0.9875
+HSV,5,8,3,2,32,16, False, False, True,0.9825
+HSV,5,8,3,2,32,32, True, True, True,1
+HSV,5,8,3,2,32,32, True, False, True,0.99
+HSV,5,8,3,2,32,32, False, True, True,0.9975
+HSV,5,8,3,2,32,32, False, False, True,0.9775
+HSV,5,8,3, ALL,16,16, True, True, True,0.995
+HSV,5,8,3, ALL,16,16, True, False, True,1
+HSV,5,8,3, ALL,16,16, False, True, True,0.99
+HSV,5,8,3, ALL,16,16, False, False, True,0.985
+HSV,5,8,3, ALL,16,32, True, True, True,0.995
+HSV,5,8,3, ALL,16,32, True, False, True,0.9925
+HSV,5,8,3, ALL,16,32, False, True, True,0.995
+HSV,5,8,3, ALL,16,32, False, False, True,0.985
+HSV,5,8,3, ALL,32,16, True, True, True,1
+HSV,5,8,3, ALL,32,16, True, False, True,0.995
+HSV,5,8,3, ALL,32,16, False, True, True,0.985
+HSV,5,8,3, ALL,32,16, False, False, True,0.9925
+HSV,5,8,3, ALL,32,32, True, True, True,0.9925
+HSV,5,8,3, ALL,32,32, True, False, True,0.995
+HSV,5,8,3, ALL,32,32, False, True, True,0.9975
+HSV,5,8,3, ALL,32,32, False, False, True,0.985
+HSV,5,8,4,0,16,16, True, True, True,0.9825
+HSV,5,8,4,0,16,16, True, False, True,0.9725
+HSV,5,8,4,0,16,16, False, True, True,0.985
+HSV,5,8,4,0,16,16, False, False, True,0.8975
+HSV,5,8,4,0,16,32, True, True, True,0.9925
+HSV,5,8,4,0,16,32, True, False, True,0.98
+HSV,5,8,4,0,16,32, False, True, True,0.9775
+HSV,5,8,4,0,16,32, False, False, True,0.895
+HSV,5,8,4,0,32,16, True, True, True,0.99
+HSV,5,8,4,0,32,16, True, False, True,0.985
+HSV,5,8,4,0,32,16, False, True, True,0.97
+HSV,5,8,4,0,32,16, False, False, True,0.91
+HSV,5,8,4,0,32,32, True, True, True,1
+HSV,5,8,4,0,32,32, True, False, True,0.985
+HSV,5,8,4,0,32,32, False, True, True,0.9775
+HSV,5,8,4,0,32,32, False, False, True,0.88
+HSV,5,8,4,1,16,16, True, True, True,0.9825
+HSV,5,8,4,1,16,16, True, False, True,0.985
+HSV,5,8,4,1,16,16, False, True, True,0.9875
+HSV,5,8,4,1,16,16, False, False, True,0.9175
+HSV,5,8,4,1,16,32, True, True, True,0.99
+HSV,5,8,4,1,16,32, True, False, True,0.99
+HSV,5,8,4,1,16,32, False, True, True,0.9925
+HSV,5,8,4,1,16,32, False, False, True,0.96
+HSV,5,8,4,1,32,16, True, True, True,0.9925
+HSV,5,8,4,1,32,16, True, False, True,0.98
+HSV,5,8,4,1,32,16, False, True, True,0.99
+HSV,5,8,4,1,32,16, False, False, True,0.9375
+HSV,5,8,4,1,32,32, True, True, True,0.995
+HSV,5,8,4,1,32,32, True, False, True,0.9875
+HSV,5,8,4,1,32,32, False, True, True,0.9925
+HSV,5,8,4,1,32,32, False, False, True,0.935
+HSV,5,8,4,2,16,16, True, True, True,0.995
+HSV,5,8,4,2,16,16, True, False, True,0.9875
+HSV,5,8,4,2,16,16, False, True, True,1
+HSV,5,8,4,2,16,16, False, False, True,0.98
+HSV,5,8,4,2,16,32, True, True, True,0.9975
+HSV,5,8,4,2,16,32, True, False, True,0.995
+HSV,5,8,4,2,16,32, False, True, True,0.9975
+HSV,5,8,4,2,16,32, False, False, True,0.9725
+HSV,5,8,4,2,32,16, True, True, True,0.99
+HSV,5,8,4,2,32,16, True, False, True,0.99
+HSV,5,8,4,2,32,16, False, True, True,0.9875
+HSV,5,8,4,2,32,16, False, False, True,0.9675
+HSV,5,8,4,2,32,32, True, True, True,1
+HSV,5,8,4,2,32,32, True, False, True,0.99
+HSV,5,8,4,2,32,32, False, True, True,0.9925
+HSV,5,8,4,2,32,32, False, False, True,0.9675
+HSV,5,8,4, ALL,16,16, True, True, True,0.9975
+HSV,5,8,4, ALL,16,16, True, False, True,0.99
+HSV,5,8,4, ALL,16,16, False, True, True,0.9825
+HSV,5,8,4, ALL,16,16, False, False, True,0.98
+HSV,5,8,4, ALL,16,32, True, True, True,0.9925
+HSV,5,8,4, ALL,16,32, True, False, True,0.995
+HSV,5,8,4, ALL,16,32, False, True, True,0.9925
+HSV,5,8,4, ALL,16,32, False, False, True,0.99
+HSV,5,8,4, ALL,32,16, True, True, True,0.9975
+HSV,5,8,4, ALL,32,16, True, False, True,0.995
+HSV,5,8,4, ALL,32,16, False, True, True,0.9875
+HSV,5,8,4, ALL,32,16, False, False, True,0.9825
+HSV,5,8,4, ALL,32,32, True, True, True,1
+HSV,5,8,4, ALL,32,32, True, False, True,0.99
+HSV,5,8,4, ALL,32,32, False, True, True,0.9975
+HSV,5,8,4, ALL,32,32, False, False, True,0.9775
+HSV,5,16,2,0,16,16, True, True, True,0.9925
+HSV,5,16,2,0,16,16, True, False, True,0.98
+HSV,5,16,2,0,16,16, False, True, True,1
+HSV,5,16,2,0,16,16, False, False, True,0.905
+HSV,5,16,2,0,16,32, True, True, True,1
+HSV,5,16,2,0,16,32, True, False, True,0.9675
+HSV,5,16,2,0,16,32, False, True, True,1
+HSV,5,16,2,0,16,32, False, False, True,0.9125
+HSV,5,16,2,0,32,16, True, True, True,0.9875
+HSV,5,16,2,0,32,16, True, False, True,0.9775
+HSV,5,16,2,0,32,16, False, True, True,1
+HSV,5,16,2,0,32,16, False, False, True,0.9075
+HSV,5,16,2,0,32,32, True, True, True,0.9975
+HSV,5,16,2,0,32,32, True, False, True,0.9675
+HSV,5,16,2,0,32,32, False, True, True,0.9975
+HSV,5,16,2,0,32,32, False, False, True,0.9
+HSV,5,16,2,1,16,16, True, True, True,0.9925
+HSV,5,16,2,1,16,16, True, False, True,0.9725
+HSV,5,16,2,1,16,16, False, True, True,0.995
+HSV,5,16,2,1,16,16, False, False, True,0.9375
+HSV,5,16,2,1,16,32, True, True, True,1
+HSV,5,16,2,1,16,32, True, False, True,0.9775
+HSV,5,16,2,1,16,32, False, True, True,1
+HSV,5,16,2,1,16,32, False, False, True,0.9225
+HSV,5,16,2,1,32,16, True, True, True,0.9975
+HSV,5,16,2,1,32,16, True, False, True,0.9875
+HSV,5,16,2,1,32,16, False, True, True,0.9925
+HSV,5,16,2,1,32,16, False, False, True,0.945
+HSV,5,16,2,1,32,32, True, True, True,1
+HSV,5,16,2,1,32,32, True, False, True,0.9725
+HSV,5,16,2,1,32,32, False, True, True,1
+HSV,5,16,2,1,32,32, False, False, True,0.9275
+HSV,5,16,2,2,16,16, True, True, True,0.9975
+HSV,5,16,2,2,16,16, True, False, True,0.9925
+HSV,5,16,2,2,16,16, False, True, True,0.995
+HSV,5,16,2,2,16,16, False, False, True,0.9675
+HSV,5,16,2,2,16,32, True, True, True,1
+HSV,5,16,2,2,16,32, True, False, True,0.9875
+HSV,5,16,2,2,16,32, False, True, True,1
+HSV,5,16,2,2,16,32, False, False, True,0.9775
+HSV,5,16,2,2,32,16, True, True, True,0.9925
+HSV,5,16,2,2,32,16, True, False, True,0.9875
+HSV,5,16,2,2,32,16, False, True, True,0.9975
+HSV,5,16,2,2,32,16, False, False, True,0.9675
+HSV,5,16,2,2,32,32, True, True, True,0.9925
+HSV,5,16,2,2,32,32, True, False, True,0.995
+HSV,5,16,2,2,32,32, False, True, True,1
+HSV,5,16,2,2,32,32, False, False, True,0.965
+HSV,5,16,2, ALL,16,16, True, True, True,0.99
+HSV,5,16,2, ALL,16,16, True, False, True,0.985
+HSV,5,16,2, ALL,16,16, False, True, True,1
+HSV,5,16,2, ALL,16,16, False, False, True,0.9825
+HSV,5,16,2, ALL,16,32, True, True, True,0.995
+HSV,5,16,2, ALL,16,32, True, False, True,0.9875
+HSV,5,16,2, ALL,16,32, False, True, True,1
+HSV,5,16,2, ALL,16,32, False, False, True,0.975
+HSV,5,16,2, ALL,32,16, True, True, True,0.9875
+HSV,5,16,2, ALL,32,16, True, False, True,0.9925
+HSV,5,16,2, ALL,32,16, False, True, True,1
+HSV,5,16,2, ALL,32,16, False, False, True,0.985
+HSV,5,16,2, ALL,32,32, True, True, True,1
+HSV,5,16,2, ALL,32,32, True, False, True,0.985
+HSV,5,16,2, ALL,32,32, False, True, True,0.995
+HSV,5,16,2, ALL,32,32, False, False, True,0.9725
+HSV,5,16,3,0,16,16, True, True, True,0.9975
+HSV,5,16,3,0,16,16, True, False, True,0.9725
+HSV,5,16,3,0,16,16, False, True, True,1
+HSV,5,16,3,0,16,16, False, False, True,0.89
+HSV,5,16,3,0,16,32, True, True, True,1
+HSV,5,16,3,0,16,32, True, False, True,0.9725
+HSV,5,16,3,0,16,32, False, True, True,1
+HSV,5,16,3,0,16,32, False, False, True,0.9075
+HSV,5,16,3,0,32,16, True, True, True,0.995
+HSV,5,16,3,0,32,16, True, False, True,0.975
+HSV,5,16,3,0,32,16, False, True, True,1
+HSV,5,16,3,0,32,16, False, False, True,0.9025
+HSV,5,16,3,0,32,32, True, True, True,1
+HSV,5,16,3,0,32,32, True, False, True,0.985
+HSV,5,16,3,0,32,32, False, True, True,1
+HSV,5,16,3,0,32,32, False, False, True,0.885
+HSV,5,16,3,1,16,16, True, True, True,0.9925
+HSV,5,16,3,1,16,16, True, False, True,0.965
+HSV,5,16,3,1,16,16, False, True, True,0.995
+HSV,5,16,3,1,16,16, False, False, True,0.94
+HSV,5,16,3,1,16,32, True, True, True,0.995
+HSV,5,16,3,1,16,32, True, False, True,0.98
+HSV,5,16,3,1,16,32, False, True, True,1
+HSV,5,16,3,1,16,32, False, False, True,0.95
+HSV,5,16,3,1,32,16, True, True, True,0.9875
+HSV,5,16,3,1,32,16, True, False, True,0.99
+HSV,5,16,3,1,32,16, False, True, True,0.9975
+HSV,5,16,3,1,32,16, False, False, True,0.9575
+HSV,5,16,3,1,32,32, True, True, True,0.9875
+HSV,5,16,3,1,32,32, True, False, True,0.9825
+HSV,5,16,3,1,32,32, False, True, True,1
+HSV,5,16,3,1,32,32, False, False, True,0.925
+HSV,5,16,3,2,16,16, True, True, True,0.995
+HSV,5,16,3,2,16,16, True, False, True,0.9875
+HSV,5,16,3,2,16,16, False, True, True,0.995
+HSV,5,16,3,2,16,16, False, False, True,0.94
+HSV,5,16,3,2,16,32, True, True, True,1
+HSV,5,16,3,2,16,32, True, False, True,0.975
+HSV,5,16,3,2,16,32, False, True, True,1
+HSV,5,16,3,2,16,32, False, False, True,0.95
+HSV,5,16,3,2,32,16, True, True, True,0.9975
+HSV,5,16,3,2,32,16, True, False, True,0.9825
+HSV,5,16,3,2,32,16, False, True, True,1
+HSV,5,16,3,2,32,16, False, False, True,0.975
+HSV,5,16,3,2,32,32, True, True, True,0.995
+HSV,5,16,3,2,32,32, True, False, True,0.9875
+HSV,5,16,3,2,32,32, False, True, True,0.9975
+HSV,5,16,3,2,32,32, False, False, True,0.96
+HSV,5,16,3, ALL,16,16, True, True, True,0.995
+HSV,5,16,3, ALL,16,16, True, False, True,0.99
+HSV,5,16,3, ALL,16,16, False, True, True,0.995
+HSV,5,16,3, ALL,16,16, False, False, True,0.9775
+HSV,5,16,3, ALL,16,32, True, True, True,1
+HSV,5,16,3, ALL,16,32, True, False, True,0.99
+HSV,5,16,3, ALL,16,32, False, True, True,0.9975
+HSV,5,16,3, ALL,16,32, False, False, True,0.99
+HSV,5,16,3, ALL,32,16, True, True, True,0.995
+HSV,5,16,3, ALL,32,16, True, False, True,0.9825
+HSV,5,16,3, ALL,32,16, False, True, True,1
+HSV,5,16,3, ALL,32,16, False, False, True,0.9775
+HSV,5,16,3, ALL,32,32, True, True, True,0.995
+HSV,5,16,3, ALL,32,32, True, False, True,0.9825
+HSV,5,16,3, ALL,32,32, False, True, True,0.9975
+HSV,5,16,3, ALL,32,32, False, False, True,0.97
+HSV,5,16,4,0,16,16, True, True, True,0.995
+HSV,5,16,4,0,16,16, True, False, True,0.9575
+HSV,5,16,4,0,16,16, False, True, True,0.9975
+HSV,5,16,4,0,16,16, False, False, True,0.8925
+HSV,5,16,4,0,16,32, True, True, True,1
+HSV,5,16,4,0,16,32, True, False, True,0.965
+HSV,5,16,4,0,16,32, False, True, True,1
+HSV,5,16,4,0,16,32, False, False, True,0.8775
+HSV,5,16,4,0,32,16, True, True, True,0.9925
+HSV,5,16,4,0,32,16, True, False, True,0.975
+HSV,5,16,4,0,32,16, False, True, True,0.9975
+HSV,5,16,4,0,32,16, False, False, True,0.905
+HSV,5,16,4,0,32,32, True, True, True,1
+HSV,5,16,4,0,32,32, True, False, True,0.97
+HSV,5,16,4,0,32,32, False, True, True,1
+HSV,5,16,4,0,32,32, False, False, True,0.875
+HSV,5,16,4,1,16,16, True, True, True,0.9975
+HSV,5,16,4,1,16,16, True, False, True,0.9625
+HSV,5,16,4,1,16,16, False, True, True,1
+HSV,5,16,4,1,16,16, False, False, True,0.9325
+HSV,5,16,4,1,16,32, True, True, True,0.995
+HSV,5,16,4,1,16,32, True, False, True,0.97
+HSV,5,16,4,1,16,32, False, True, True,1
+HSV,5,16,4,1,16,32, False, False, True,0.9425
+HSV,5,16,4,1,32,16, True, True, True,0.9925
+HSV,5,16,4,1,32,16, True, False, True,0.9725
+HSV,5,16,4,1,32,16, False, True, True,1
+HSV,5,16,4,1,32,16, False, False, True,0.9325
+HSV,5,16,4,1,32,32, True, True, True,0.995
+HSV,5,16,4,1,32,32, True, False, True,0.98
+HSV,5,16,4,1,32,32, False, True, True,1
+HSV,5,16,4,1,32,32, False, False, True,0.9025
+HSV,5,16,4,2,16,16, True, True, True,1
+HSV,5,16,4,2,16,16, True, False, True,0.9775
+HSV,5,16,4,2,16,16, False, True, True,1
+HSV,5,16,4,2,16,16, False, False, True,0.95
+HSV,5,16,4,2,16,32, True, True, True,1
+HSV,5,16,4,2,16,32, True, False, True,0.98
+HSV,5,16,4,2,16,32, False, True, True,1
+HSV,5,16,4,2,16,32, False, False, True,0.935
+HSV,5,16,4,2,32,16, True, True, True,0.9975
+HSV,5,16,4,2,32,16, True, False, True,0.9825
+HSV,5,16,4,2,32,16, False, True, True,1
+HSV,5,16,4,2,32,16, False, False, True,0.96
+HSV,5,16,4,2,32,32, True, True, True,0.9975
+HSV,5,16,4,2,32,32, True, False, True,0.975
+HSV,5,16,4,2,32,32, False, True, True,1
+HSV,5,16,4,2,32,32, False, False, True,0.9625
+HSV,5,16,4, ALL,16,16, True, True, True,1
+HSV,5,16,4, ALL,16,16, True, False, True,0.985
+HSV,5,16,4, ALL,16,16, False, True, True,1
+HSV,5,16,4, ALL,16,16, False, False, True,0.98
+HSV,5,16,4, ALL,16,32, True, True, True,1
+HSV,5,16,4, ALL,16,32, True, False, True,0.9875
+HSV,5,16,4, ALL,16,32, False, True, True,0.9975
+HSV,5,16,4, ALL,16,32, False, False, True,0.9725
+HSV,5,16,4, ALL,32,16, True, True, True,0.99
+HSV,5,16,4, ALL,32,16, True, False, True,0.9925
+HSV,5,16,4, ALL,32,16, False, True, True,0.995
+HSV,5,16,4, ALL,32,16, False, False, True,0.96
+HSV,5,16,4, ALL,32,32, True, True, True,0.995
+HSV,5,16,4, ALL,32,32, True, False, True,0.9825
+HSV,5,16,4, ALL,32,32, False, True, True,1
+HSV,5,16,4, ALL,32,32, False, False, True,0.9625

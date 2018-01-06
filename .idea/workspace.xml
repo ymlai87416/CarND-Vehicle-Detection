@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04ef2c0b-7b3c-4df0-b986-27671551ed63" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/Sample toolkits.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/.idea/codeStyles/Project.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/.idea/color_space_analysis.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/CMakeLists.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-debug/CMakeCache.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-debug/CMakeFiles/3.9.4/CMakeCCompiler.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-debug/CMakeFiles/3.9.4/CMakeCXXCompiler.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-debug/CMakeFiles/3.9.4/CMakeDetermineCompilerABI_C.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-debug/CMakeFiles/3.9.4/CMakeDetermineCompilerABI_CXX.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-debug/CMakeFiles/3.9.4/CMakeRCCompiler.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-debug/CMakeFiles/3.9.4/CMakeSystem.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-debug/CMakeFiles/3.9.4/CompilerIdC/CMakeCCompilerId.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-debug/CMakeFiles/3.9.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-debug/CMakeFiles/Makefile.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-debug/CMakeFiles/Makefile2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-debug/CMakeFiles/clion-environment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-debug/CMakeFiles/clion-log.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-debug/CMakeFiles/cmake.check_cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-debug/CMakeFiles/feature_tests.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-debug/CMakeFiles/progress.marks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-debug/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-debug/Project.cbp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-debug/cmake_install.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-release/CMakeCache.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-release/CMakeFiles/3.9.4/CMakeCCompiler.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-release/CMakeFiles/3.9.4/CMakeCXXCompiler.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-release/CMakeFiles/3.9.4/CMakeDetermineCompilerABI_C.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-release/CMakeFiles/3.9.4/CMakeDetermineCompilerABI_CXX.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-release/CMakeFiles/3.9.4/CMakeRCCompiler.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-release/CMakeFiles/3.9.4/CMakeSystem.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-release/CMakeFiles/3.9.4/CompilerIdC/CMakeCCompilerId.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-release/CMakeFiles/3.9.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-release/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-release/CMakeFiles/Makefile.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-release/CMakeFiles/Makefile2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-release/CMakeFiles/TargetDirectories.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-release/CMakeFiles/clion-environment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-release/CMakeFiles/clion-log.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-release/CMakeFiles/cmake.check_cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-release/CMakeFiles/feature_tests.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-release/CMakeFiles/feature_tests.cxx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-release/CMakeFiles/progress.marks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-release/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-release/Project.cbp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/cmake-build-release/cmake_install.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/color_space_analysis/main.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/lane_detection/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/lane_detection/CMakeLists.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/lane_detection/CameraCalibrator.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/lane_detection/CameraCalibrator.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/lane_detection/birdView.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/lane_detection/camera_cal/calibration1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/lane_detection/camera_cal/calibration10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/lane_detection/camera_cal/calibration11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/lane_detection/camera_cal/calibration12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/lane_detection/camera_cal/calibration13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/lane_detection/camera_cal/calibration14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/lane_detection/camera_cal/calibration15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/lane_detection/camera_cal/calibration16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/lane_detection/camera_cal/calibration17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/lane_detection/camera_cal/calibration18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/lane_detection/camera_cal/calibration19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/lane_detection/camera_cal/calibration2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/lane_detection/camera_cal/calibration20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/lane_detection/camera_cal/calibration3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/lane_detection/camera_cal/calibration4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/lane_detection/camera_cal/calibration5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/lane_detection/camera_cal/calibration6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/lane_detection/camera_cal/calibration7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/lane_detection/camera_cal/calibration8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/lane_detection/camera_cal/calibration9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/lane_detection/featureExtraction.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/lane_detection/laneDetection.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/lane_detection/line.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/lane_detection/videoprocessor.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/.idea/codeStyles/Project.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/.idea/color_space_analysis.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/CMakeLists.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/DisplayImage.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-debug/CMakeCache.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-debug/CMakeFiles/3.9.4/CMakeCCompiler.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-debug/CMakeFiles/3.9.4/CMakeCXXCompiler.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-debug/CMakeFiles/3.9.4/CMakeDetermineCompilerABI_C.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-debug/CMakeFiles/3.9.4/CMakeDetermineCompilerABI_CXX.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-debug/CMakeFiles/3.9.4/CMakeRCCompiler.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-debug/CMakeFiles/3.9.4/CMakeSystem.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-debug/CMakeFiles/3.9.4/CompilerIdC/CMakeCCompilerId.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-debug/CMakeFiles/3.9.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-debug/CMakeFiles/DisplayImage.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-debug/CMakeFiles/DisplayImage.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-debug/CMakeFiles/DisplayImage.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-debug/CMakeFiles/DisplayImage.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-debug/CMakeFiles/DisplayImage.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-debug/CMakeFiles/DisplayImage.dir/objects1.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-debug/CMakeFiles/DisplayImage.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-debug/CMakeFiles/Makefile.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-debug/CMakeFiles/Makefile2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-debug/CMakeFiles/clion-environment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-debug/CMakeFiles/clion-log.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-debug/CMakeFiles/cmake.check_cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-debug/CMakeFiles/feature_tests.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-debug/CMakeFiles/progress.marks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-debug/DisplayImage.cbp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-debug/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-debug/cmake_install.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-release/CMakeCache.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-release/CMakeFiles/3.9.4/CMakeCCompiler.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-release/CMakeFiles/3.9.4/CMakeCXXCompiler.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-release/CMakeFiles/3.9.4/CMakeDetermineCompilerABI_C.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-release/CMakeFiles/3.9.4/CMakeDetermineCompilerABI_CXX.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-release/CMakeFiles/3.9.4/CMakeRCCompiler.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-release/CMakeFiles/3.9.4/CMakeSystem.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-release/CMakeFiles/3.9.4/CompilerIdC/CMakeCCompilerId.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-release/CMakeFiles/3.9.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-release/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-release/CMakeFiles/DisplayImage.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-release/CMakeFiles/DisplayImage.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-release/CMakeFiles/DisplayImage.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-release/CMakeFiles/DisplayImage.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-release/CMakeFiles/DisplayImage.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-release/CMakeFiles/DisplayImage.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-release/CMakeFiles/DisplayImage.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-release/CMakeFiles/DisplayImage.dir/objects1.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-release/CMakeFiles/DisplayImage.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-release/CMakeFiles/Makefile.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-release/CMakeFiles/Makefile2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-release/CMakeFiles/TargetDirectories.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-release/CMakeFiles/clion-environment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-release/CMakeFiles/clion-log.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-release/CMakeFiles/cmake.check_cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-release/CMakeFiles/feature_tests.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-release/CMakeFiles/feature_tests.cxx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-release/CMakeFiles/progress.marks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-release/DisplayImage.cbp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-release/DisplayImage.exe.manifest" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-release/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_opencv/cmake-build-release/cmake_install.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/.idea/codeStyles/Project.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/.idea/simple_qt.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/CMakeLists.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/ALL_BUILD.vcxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/ALL_BUILD.vcxproj.filters" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeCache.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeFiles/3.10.0-rc3/CMakeCCompiler.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeFiles/3.10.0-rc3/CMakeCXXCompiler.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeFiles/3.10.0-rc3/CMakeDetermineCompilerABI_C.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeFiles/3.10.0-rc3/CMakeDetermineCompilerABI_CXX.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeFiles/3.10.0-rc3/CMakeRCCompiler.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeFiles/3.10.0-rc3/CMakeSystem.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeFiles/3.10.0-rc3/CompilerIdC/CMakeCCompilerId.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeFiles/3.10.0-rc3/CompilerIdC/CompilerIdC.vcxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeFiles/3.10.0-rc3/CompilerIdC/Debug/CompilerIdC.tlog/CL.command.1.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeFiles/3.10.0-rc3/CompilerIdC/Debug/CompilerIdC.tlog/CL.read.1.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeFiles/3.10.0-rc3/CompilerIdC/Debug/CompilerIdC.tlog/CL.write.1.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeFiles/3.10.0-rc3/CompilerIdC/Debug/CompilerIdC.tlog/CompilerIdC.lastbuildstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeFiles/3.10.0-rc3/CompilerIdC/Debug/CompilerIdC.tlog/link.command.1.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeFiles/3.10.0-rc3/CompilerIdC/Debug/CompilerIdC.tlog/link.read.1.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeFiles/3.10.0-rc3/CompilerIdC/Debug/CompilerIdC.tlog/link.write.1.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeFiles/3.10.0-rc3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeFiles/3.10.0-rc3/CompilerIdCXX/CompilerIdCXX.vcxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeFiles/3.10.0-rc3/CompilerIdCXX/Debug/CompilerIdCXX.tlog/CL.command.1.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeFiles/3.10.0-rc3/CompilerIdCXX/Debug/CompilerIdCXX.tlog/CL.read.1.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeFiles/3.10.0-rc3/CompilerIdCXX/Debug/CompilerIdCXX.tlog/CL.write.1.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeFiles/3.10.0-rc3/CompilerIdCXX/Debug/CompilerIdCXX.tlog/CompilerIdCXX.lastbuildstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeFiles/3.10.0-rc3/CompilerIdCXX/Debug/CompilerIdCXX.tlog/link.command.1.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeFiles/3.10.0-rc3/CompilerIdCXX/Debug/CompilerIdCXX.tlog/link.read.1.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeFiles/3.10.0-rc3/CompilerIdCXX/Debug/CompilerIdCXX.tlog/link.write.1.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeFiles/3.10.0-rc3/VCTargetsPath.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeFiles/3.10.0-rc3/VCTargetsPath.vcxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeFiles/3.10.0-rc3/x64/Debug/VCTargetsPath.tlog/VCTargetsPath.lastbuildstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeFiles/9c417f2c66c2cafddc43b6c74f857586/generate.stamp.rule" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeFiles/TargetDirectories.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeFiles/cmake.check_cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeFiles/feature_tests.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeFiles/feature_tests.cxx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeFiles/generate.stamp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeFiles/generate.stamp.depend" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/CMakeFiles/generate.stamp.list" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/HelloWorld.sln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/HelloWorld.vcxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/HelloWorld.vcxproj.filters" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/ZERO_CHECK.vcxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/ZERO_CHECK.vcxproj.filters" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/build/cmake_install.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-debug/CMakeCache.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-debug/CMakeFiles/3.9.4/CMakeDetermineCompilerABI_C.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-debug/CMakeFiles/3.9.4/CMakeDetermineCompilerABI_CXX.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-debug/CMakeFiles/3.9.4/CMakeRCCompiler.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-debug/CMakeFiles/3.9.4/CMakeSystem.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-debug/CMakeFiles/3.9.4/CompilerIdC/CMakeCCompilerId.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-debug/CMakeFiles/3.9.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-debug/CMakeFiles/HelloWorld.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-debug/CMakeFiles/HelloWorld.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-debug/CMakeFiles/HelloWorld.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-debug/CMakeFiles/HelloWorld.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-debug/CMakeFiles/HelloWorld.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-debug/CMakeFiles/HelloWorld.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-debug/CMakeFiles/HelloWorld.dir/embed.manifest" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-debug/CMakeFiles/HelloWorld.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-debug/CMakeFiles/HelloWorld.dir/intermediate.manifest" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-debug/CMakeFiles/HelloWorld.dir/manifest.rc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-debug/CMakeFiles/HelloWorld.dir/manifest.res" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-debug/CMakeFiles/HelloWorld.dir/objects1.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-debug/CMakeFiles/HelloWorld.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-debug/CMakeFiles/Makefile.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-debug/CMakeFiles/Makefile2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-debug/CMakeFiles/clion-environment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-debug/CMakeFiles/clion-log.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-debug/CMakeFiles/cmake.check_cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-debug/CMakeFiles/feature_tests.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-debug/CMakeFiles/progress.marks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-debug/HelloWorld.cbp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-debug/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-debug/cmake_install.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-release/CMakeCache.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-release/CMakeFiles/3.9.4/CMakeDetermineCompilerABI_C.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-release/CMakeFiles/3.9.4/CMakeDetermineCompilerABI_CXX.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-release/CMakeFiles/3.9.4/CMakeRCCompiler.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-release/CMakeFiles/3.9.4/CMakeSystem.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-release/CMakeFiles/3.9.4/CompilerIdC/CMakeCCompilerId.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-release/CMakeFiles/3.9.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-release/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-release/CMakeFiles/HelloWorld.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-release/CMakeFiles/HelloWorld.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-release/CMakeFiles/HelloWorld.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-release/CMakeFiles/HelloWorld.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-release/CMakeFiles/HelloWorld.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-release/CMakeFiles/HelloWorld.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-release/CMakeFiles/HelloWorld.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-release/CMakeFiles/HelloWorld.dir/objects1.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-release/CMakeFiles/HelloWorld.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-release/CMakeFiles/Makefile.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-release/CMakeFiles/Makefile2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-release/CMakeFiles/TargetDirectories.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-release/CMakeFiles/clion-environment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-release/CMakeFiles/clion-log.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-release/CMakeFiles/cmake.check_cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-release/CMakeFiles/feature_tests.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-release/CMakeFiles/feature_tests.cxx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-release/CMakeFiles/progress.marks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-release/HelloWorld.cbp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-release/HelloWorld.exe.manifest" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-release/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/cmake-build-release/cmake_install.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/toolset/simple_qt/main.cpp" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/test1.jpg" afterPath="$PROJECT_DIR$/output_images/test1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/test2.jpg" afterPath="$PROJECT_DIR$/output_images/test2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/test3.jpg" afterPath="$PROJECT_DIR$/output_images/test3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/test4.jpg" afterPath="$PROJECT_DIR$/output_images/test4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/test5.jpg" afterPath="$PROJECT_DIR$/output_images/test5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/test6.jpg" afterPath="$PROJECT_DIR$/output_images/test6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_video_output.mp4" afterPath="$PROJECT_DIR$/project_video_output.mp4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/svc_pickle_final.p" afterPath="$PROJECT_DIR$/svc_pickle_final.p" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_video_output.mp4" afterPath="$PROJECT_DIR$/test_video_output.mp4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/CarND-Vehical-Detection-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/CarND-Vehical-Detection-checkpoint.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CarND-Vehical-Detection.ipynb" afterPath="$PROJECT_DIR$/CarND-Vehical-Detection.ipynb" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="writeup.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/writeup.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SECOND">
+              <first_editor relative-caret-position="195">
+                <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/writeup.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CarND-Vehicle-Detection" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CarND-Vehicle-Detection" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CarND-Vehicle-Detection" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CarND-Vehicle-Detection" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CarND-Vehicle-Detection" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CarND-Vehicle-Detection" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CarND-Vehicle-Detection" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CarND-Vehicle-Detection" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="CarND-Vehicle-Detection" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CarND-Vehicle-Detection" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CarND-Vehicle-Detection" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04ef2c0b-7b3c-4df0-b986-27671551ed63" name="Default" comment="" />
+      <created>1515167517511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515167517511</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23560767" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/writeup.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/writeup.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="195">
+            <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

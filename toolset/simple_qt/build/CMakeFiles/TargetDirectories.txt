@@ -1,3 +1,0 @@
-C:/GitProjects/CarND-Vehicle-Detection/toolset/simple_qt/build/CMakeFiles/HelloWorld.dir
-C:/GitProjects/CarND-Vehicle-Detection/toolset/simple_qt/build/CMakeFiles/ALL_BUILD.dir
-C:/GitProjects/CarND-Vehicle-Detection/toolset/simple_qt/build/CMakeFiles/ZERO_CHECK.dir
