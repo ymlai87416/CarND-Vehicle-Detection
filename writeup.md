@@ -34,7 +34,7 @@ You're reading it!
 
 #### 1. Explain how (and identify where in your code) you extracted HOG features from the training images.
 
-The code for this step is contained in the 2nd code cell of the IPython notebook `CarND-Vehical-Detection.ipynb`
+The code for this step is contained in the 2nd code cell of the IPython notebook `CarND-Vehicle-Detection.ipynb`
 The function name is `get_hog_features`. It uses `skimage.feature.hog` to generate the hog feature.
 
 I started by reading in all the `vehicle` and `non-vehicle` images.  Here is an example of one of each of the `vehicle`
@@ -98,7 +98,7 @@ If you are interested, you can take a look at 2 Excel files: `first_round_statis
 #### 3. Describe how (and identify where in your code) you trained a classifier using your selected HOG features (and color features if you used them).
 
 The code for this step is contained in the 5th, 6th and 7th code cell of the IPython notebook 
-`CarND-Vehical-Detection.ipynb`. Under the title "Train a Linear SVC for classification".
+`CarND-Vehicle-Detection.ipynb`. Under the title "Train a Linear SVC for classification".
 
 I trained a linear SVM using the training dataset provided by the course website. Here is the 
 [link of small dataset](vehicle_small_dataset.7z), and [link of full dataset](vehicle_dataset.7z).
@@ -106,15 +106,15 @@ I trained a linear SVM using the training dataset provided by the course website
 I also include 2 more feature sets beside the HOG features.
 
 * The spatial feature: I first scale the image to `spatial_size` and then 
-flatten the image to create a array of number. For example, if I use `spatial_size = 32 x 32`, I first scale the image
-to the size `32 x 32` and use each of the pixel as a input feature, which is `1024` in total. The implementation is 
-the function `bin_spatial` in the 2nd code cell of the IPython notebook `CarND-Vehical-Detection.ipynb` 
+flatten the image to create an array of number. For example, if I use `spatial_size = 32 x 32`, I first scale the image
+to the size `32 x 32` and use each of the pixels as an input feature, which is `1024` in total. The implementation is 
+the function `bin_spatial` in the 2nd code cell of the IPython notebook `CarND-Vehicle-Detection.ipynb` 
 
-* The color histogram, the image is seperate into 3 channels and calculate the histogram respectively, the bin size of the histogram
-is specified in `hist_bins`. These 3 histograms are then combined together to create a single histogram, which give 
+* The color histogram, the image is seperated into 3 channels and calculate the histogram respectively, the bin size of the histogram
+is specified in `hist_bins`. These 3 histograms are then combined together to create a single histogram, which gives 
 `3 X hist_bin features`. In the case when histogram bin number is 32, the resulting histogram is of length `3 X 32 = 96`.
 The implementation is the function `color_hist` in the 2nd code cell of the IPython notebook 
-`CarND-Vehical-Detection.ipynb` 
+`CarND-Vehicle-Detection.ipynb` 
 
 To start training a classifier, first I convert all the image in the training set from the original format *.png to *.jpeg. 
 It is because the testing images and testing videos are all in the form of *.jpeg. The numeric value read from *.png 
@@ -135,7 +135,7 @@ Finally, I calculate the accuracy score and make sure that the test score is hig
 #### 1. Describe how (and identify where in your code) you implemented a sliding window search.  How did you decide what scales to search and how much to overlap windows?
 
 The function `find_car` in the 8th code block of the IPython notebook 
-`CarND-Vehical-Detection.ipynb` implemented a sliding window search. This function take the following parameters:
+`CarND-Vehicle-Detection.ipynb` implemented a sliding window search. This function takes the following parameters:
 * img: Image
 * color_space: color space used in extracting features
 * ystart, ystop: the start and the end of y pos for searching cars
@@ -148,7 +148,7 @@ The function `find_car` in the 8th code block of the IPython notebook
 * hog_channel: specify which channel hog feature is extracted
 * spatial feat, hist_feat, hog_feat: enable / disable features
 
-As the function `find_car` use a pre-calculated the hog feature, and hence the step is a multiple of pix_per_cell, the smaller the pix_per_cell,
+As the function `find_car` uses a pre-calculated the hog feature, and hence the step is a multiple of pix_per_cell, the smaller the pix_per_cell,
 more windows this function can search.
 
 For pix_per_cell = 16 and scale = 1, the sliding windows search for following windows. each unit square in the below image
@@ -199,10 +199,10 @@ to identify individual blobs in the heatmap.  I then assumed each blob correspon
 bounding boxes to cover the area of each blob detected.
 
 The bounding boxes in the previous frame is kept for current frame processing, but the weighting is exponentially decay
-at a rate of 0.5, all bounding box having weight less than 0.1 will be purged.
+at a rate of 0.5, all bounding boxes have weighting less than 0.1 will be purged.
 
 Here's an example result showing the heatmap from a series of frames of video, the result of 
-`scipy.ndimage.measurements.label()` and the bounding boxes then overlaid on the last frame of video:
+`scipy.ndimage.measurements.label()` and the bounding boxes then overlaid on the last frame of the video:
 
 ##### Here are six frames and their corresponding heatmaps:
 
@@ -224,45 +224,47 @@ Here's an example result showing the heatmap from a series of frames of video, t
 Here I'll talk about the approach I took, what techniques I used, what worked and why, where the pipeline might fail 
 and how I might improve it if I were going to pursue this project further.  
 
-In this project, I have used HOG feature and SVM with additional feature to do a sliding window search to find cars
+In this project, I have used HOG feature and SVM with an additional feature to do a sliding window search to find cars
 in the video. 
 
 ##### HOG-SVM
 
 1. HOG-SVM performs well in this project. Even if the feature set has a very high dimension. In this case, the dimension
-of the feature set is of `4140`, and the number of training sample is only `5966 + 8968 = 14935`.
+of the feature set is of `4140`, and the number of the training sample is only `5966 + 8968 = 14935`.
 I was afraid SVM overfits the training data and produce a poor output, but it turns out this is not the case.
 
-2. Hyper-parameter tuning is very time consuming. Given that I have to find not only C (SVM parameters), but also
-HOG parameter which are `(orientations, pixels_per_cell and cells_per_block)`. I does not have time in this project
+2. Hyper-parameter tuning is very time-consuming. Given that I have to find not only C (SVM parameters), but also
+HOG parameter which are `(orientations, pixels_per_cell and cells_per_block)`. I do not have time for this project
 to implement the hyper-parameter grid search efficiently, but by brute force find out the hyper-parameters. (by inspecting 
 over 3000 combinations.) 
 
-3. Instead of using HOG-SVM, Decision tree and other type of classifier can also be used in the detection process. 
-In sklearn, there is a VotingClassifier[1] to combine multiple classifier into a single classifier to improve the
+3. Instead of using HOG-SVM, Decision tree can also be used in the detection process. 
+In sklearn, there is a VotingClassifier[1] to combine multiple classifiers into a single classifier to improve the
 prediction accuracy.
 
 ##### Sliding windows search:
 
 1. In this project, I used only 1 scale. The sliding windows search can be improved by scaling the image multiple time, 
-such that objects of difference size can be detected without missing. Missing objects (True negative) can lead to 
-traffic accidents. The reason I don't use it is because it further reduce the frame processing rate < 1 frame/second.
+such that objects of different size can be detected without missing. Missing objects (True negative) can lead to 
+traffic accidents. The reason I only use 1 scale is because it further reduces the frame processing rate < 1 frame/second.
 
 2. I tried to use Python multiprocessing library to improve the runtime. it is because each window is independent of each
-others when finding if there is a car within the windows or not. But I find passing/sharing numpy NDArray
+other when finding if there is a car within the windows or not. But I find passing/sharing numpy NDArray
 among Python process difficult so I gave up this idea. If this idea can be implemented, it should increase the runtime >
 1.4 frames/ second. 
 
 ##### Object tracking:
-1. In this project, there is no object tracking. The pipeline only output what it thinks which part of the image contains
+1. In this project, there is no object tracking. The pipeline only outputs what it thinks which part of the image contains
 cars, but it does not know is this object was in the previous frames before. 
 To perform object tracking, we can use the color histogram[2]. Color histogram should be able to matches objects
 between frames. Another advance technique like SIFT[3] can be applied to track object too.
 
 ##### Integration with previous project:
-1. I have also integrate the previous project "Advance lane finding" to this project such that the program can now
-detect lane and vehicle `vehicle_detection.py`. Here is [a link to the video](https://youtu.be/rEKE_fyPhqY)
-The program takes 2 parameters, the video file name and a debug flag. To run the program, 
+1. I have also integrated the previous project "Advance lane finding" to this project such that the program can now
+detect lane and vehicle `vehicle_detection.py`. By doing so, the computer now has more information on the road, and
+decide what is the next action (accelerate, decelerate, emergency stop) and route planning.
+Here is [a link to the video](https://youtu.be/rEKE_fyPhqY) The program takes 2 parameters, the video file name and a 
+debug flag. To run the program, 
 ```bash
 python vehicle_detection.py project_video.mp4 false
 ```
