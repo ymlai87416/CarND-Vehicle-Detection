@@ -246,7 +246,8 @@ prediction accuracy.
 
 1. In this project, I used only 1 scale. The sliding windows search can be improved by scaling the image multiple time, 
 such that objects of different size can be detected without missing. Missing objects (True negative) can lead to 
-traffic accidents. The reason I only use 1 scale is because it further reduces the frame processing rate < 1 frame/second.
+traffic accidents. The reason I only use 1 scale is because using more scale can further reduces the frame processing 
+rate < 1 frame/second.
 
 2. I tried to use Python multiprocessing library to improve the runtime. it is because each window is independent of each
 other when finding if there is a car within the windows or not. But I find passing/sharing numpy NDArray
@@ -261,8 +262,8 @@ between frames. Another advance technique like SIFT[3] can be applied to track o
 
 ##### Integration with previous project:
 1. I have also integrated the previous project "Advance lane finding" to this project such that the program can now
-detect lane and vehicle `vehicle_detection.py`. By doing so, the computer now has more information on the road, and
-decide what is the next action (accelerate, decelerate, emergency stop) and route planning.
+detect lane and vehicle `vehicle_detection.py`. By doing so, the computer now has more information on the road and
+decides what is the next action (accelerate, decelerate, emergency stop) and route planning.
 Here is [a link to the video](https://youtu.be/rEKE_fyPhqY) The program takes 2 parameters, the video file name and a 
 debug flag. To run the program, 
 ```bash
